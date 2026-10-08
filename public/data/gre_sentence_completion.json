@@ -1,0 +1,5671 @@
+[
+  {
+    "id": 1,
+    "test": 1,
+    "section": 1,
+    "question_number": 1,
+    "question": "Nonviolent demonstrations often create such tensions that a community that has constantly refused to its injustices is forced to correct them: the injustices can no longer be",
+    "options": {
+      "A": "acknowledge ... ignored",
+      "B": "decrease ... verified",
+      "C": "tolerate ... accepted",
+      "D": "address ... eliminated",
+      "E": "explain ... discussed"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 2,
+    "test": 1,
+    "section": 1,
+    "question_number": 2,
+    "question": "Since 1813 reaction to Jane Austen\u2019s novels has oscillated between and condescension; but in general later writers have esteemed her works more highly than did most of her literary",
+    "options": {
+      "A": "dismissal ... admirers",
+      "B": "adoration ... contemporaries",
+      "C": "disapproval ... readers",
+      "D": "indifference ... followers",
+      "E": "approbation ... precursors"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 3,
+    "test": 1,
+    "section": 1,
+    "question_number": 3,
+    "question": "There are, as yet, no vegetation types or ecosystems whose study has been to the extent that they no longer ecologists.",
+    "options": {
+      "A": "perfected ... hinder",
+      "B": "exhausted ... interest",
+      "C": "prolonged ... require",
+      "D": "prevented ... challenge",
+      "E": "delayed ... benefit"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 4,
+    "test": 1,
+    "section": 1,
+    "question_number": 4,
+    "question": "Under ethical guidelines recently adopted by the National Institutes of Health, human genes are to be manipulated only to correct diseases for which treatments are unsatisfactory.",
+    "options": {
+      "A": "similar",
+      "B": "most",
+      "C": "dangerous",
+      "D": "uncommon",
+      "E": "alternative"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 5,
+    "test": 1,
+    "section": 1,
+    "question_number": 5,
+    "question": "It was her view that the country\u2019s problems had been by foreign technocrats, so that to invite them to come back would be counterproductive.",
+    "options": {
+      "A": "foreseen",
+      "B": "attacked",
+      "C": "ascertained",
+      "D": "exacerbated",
+      "E": "analyzed"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 6,
+    "test": 1,
+    "section": 1,
+    "question_number": 6,
+    "question": "Winsor McCay, the cartoonist, could draw with incredible : his comic strip about Little Nemo was characterized by marvelous draftsmanship and sequencing.",
+    "options": {
+      "A": "sincerity",
+      "B": "efficiency",
+      "C": "virtuosity",
+      "D": "rapidity",
+      "E": "energy"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 7,
+    "test": 1,
+    "section": 1,
+    "question_number": 7,
+    "question": "The actual of Wilson\u2019s position was always by his refusal to compromise after having initially agreed to negotiate a settlement.",
+    "options": {
+      "A": "outcome ... foreshadowed",
+      "B": "logic ... enhanced",
+      "C": "rigidity ... betrayed",
+      "D": "uncertainty ... alleviated",
+      "E": "cowardice ... highlighted"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 8,
+    "test": 1,
+    "section": 2,
+    "question_number": 1,
+    "question": "The senator\u2019s reputation, though by false allegations of misconduct, emerged from the ordeal",
+    "options": {
+      "A": "shaken ... unscathed",
+      "B": "destroyed ... intact",
+      "C": "damaged ... impaired",
+      "D": "impugned ... unclear",
+      "E": "tarnished ... sullied"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 9,
+    "test": 1,
+    "section": 2,
+    "question_number": 2,
+    "question": "This poetry is not ; it is more likely to appeal to an international audience than is poetry with strictly regional themes.",
+    "options": {
+      "A": "familiar",
+      "B": "democratic",
+      "C": "technical",
+      "D": "complex",
+      "E": "provincial"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 10,
+    "test": 1,
+    "section": 2,
+    "question_number": 3,
+    "question": "Experienced employers recognize that business students who can different points of view are ultimately more effective as managers than are the brilliant and original students who dogmatically to their own formulations.",
+    "options": {
+      "A": "discredit ... revert",
+      "B": "assimilate ... adhere",
+      "C": "impose ... refer",
+      "D": "disregard ... incline",
+      "E": "advocate ... relate"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 11,
+    "test": 1,
+    "section": 2,
+    "question_number": 4,
+    "question": "Poe\u2019s reviews of contemporary fiction, which often find great merit in otherwise literary gems, must make us respect his critical judgment in addition to his well-known literary talent.",
+    "options": {
+      "A": "thorough ... completed",
+      "B": "petulant ... unpopular",
+      "C": "insightful ... unappreciated",
+      "D": "enthusiastic ... acclaimed",
+      "E": "harsh ... undeserving"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 12,
+    "test": 1,
+    "section": 2,
+    "question_number": 5,
+    "question": "The significance of the Magna Carta lies not in its provisions, but in its broader impact: it made the king subject to the law.",
+    "options": {
+      "A": "specific",
+      "B": "revolutionary",
+      "C": "implicit",
+      "D": "controversial",
+      "E": "finite"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 13,
+    "test": 1,
+    "section": 2,
+    "question_number": 6,
+    "question": "The theory of cosmic evolution states that the universe, having begun in a state of simplicity and , has into great variety.",
+    "options": {
+      "A": "equilibrium ... modulated",
+      "B": "homogeneity ... differentiated",
+      "C": "contrast ... metamorphosed",
+      "D": "proportion ... accelerated",
+      "E": "intelligibility ... developed"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 14,
+    "test": 1,
+    "section": 2,
+    "question_number": 7,
+    "question": "Not wishing to appear , the junior member of the research group refrained from any criticism of the senior members\u2019 plan for dividing up responsibility for the entire project.",
+    "options": {
+      "A": "reluctant ... evaluating",
+      "B": "inquisitive ... offering",
+      "C": "presumptuous ... venturing",
+      "D": "censorious ... undercutting",
+      "E": "moralistic ... observing"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 15,
+    "test": 2,
+    "section": 1,
+    "question_number": 1,
+    "question": "In the British theater young people under thirty-five have not had much getting recognition onstage, but offstage\u2014in the ranks of playwrights, directors, designers, administrators\u2014they have mostly been relegated to relative obscurity.",
+    "options": {
+      "A": "trouble",
+      "B": "satisfaction",
+      "C": "curiosity about",
+      "D": "success at",
+      "E": "fear of"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 16,
+    "test": 2,
+    "section": 1,
+    "question_number": 2,
+    "question": "An institution concerned about its reputation is at the mercy of the actions of its members; because the misdeeds of individuals are often used to the institutions of which they are a part.",
+    "options": {
+      "A": "reform",
+      "B": "coerce",
+      "C": "honor",
+      "D": "discredit",
+      "E": "intimidate"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 17,
+    "test": 2,
+    "section": 1,
+    "question_number": 3,
+    "question": "Since many casual smokers develop lung cancer and many smokers do not, scientists believe that individuals differ in their the cancer-causing agents known to be present in cigarette smoke.",
+    "options": {
+      "A": "heavy ... susceptibility to",
+      "B": "chronic ... concern about",
+      "C": "habitual ... proximity to",
+      "D": "devoted ... reliance upon",
+      "E": "regular ... exposure to"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 18,
+    "test": 2,
+    "section": 1,
+    "question_number": 4,
+    "question": "We accepted the theory that as people become more independent of one another, they begin to feel so isolated and lonely that freedom becomes condition that most will seek to",
+    "options": {
+      "A": "a permanent ... postpone",
+      "B": "a common... enter",
+      "C": "a negative ... escape",
+      "D": "a political ... impose",
+      "E": "an irreparable ... avoid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 19,
+    "test": 2,
+    "section": 1,
+    "question_number": 5,
+    "question": "If animal parents were judged by human standards, the cuckoo would be one of nature\u2019s more creatures, blithely laying its eggs in the nests of other birds, and leaving the incubating and nurturing to them.",
+    "options": {
+      "A": "mettlesome",
+      "B": "industrious",
+      "C": "domestic",
+      "D": "lackluster",
+      "E": "feckless"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 20,
+    "test": 2,
+    "section": 1,
+    "question_number": 6,
+    "question": "The current penchant for a product by denigrating a rival, named in the advertisement by brand name, seems somewhat : suppose the consumer remembers only the rival\u2019s name?",
+    "options": {
+      "A": "criticizing ... inefficient",
+      "B": "touting ... foolhardy",
+      "C": "enhancing ... insipid",
+      "D": "evaluating ... cumbersome",
+      "E": "flaunting ... gullible"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 21,
+    "test": 2,
+    "section": 1,
+    "question_number": 7,
+    "question": "His imperturbability in the face of evidence indicating his deliberate fraud failed to reassure supporters of his essential ; instead, it suggested a talent for that they had never suspected.",
+    "options": {
+      "A": "culpability... intrigue",
+      "B": "wisdom ... reproof",
+      "C": "remorse ... loquacity",
+      "D": "probity ... guile",
+      "E": "combativeness ... compromise"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 22,
+    "test": 2,
+    "section": 2,
+    "question_number": 1,
+    "question": "Although providing wild chimpanzees with food makes them less and easier to study, it is also known to their normal social patterns.",
+    "options": {
+      "A": "interesting ... reinforce",
+      "B": "manageable ... upset",
+      "C": "shy ... disrupt",
+      "D": "poised ... inhibit",
+      "E": "accessible ... retard"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 23,
+    "test": 2,
+    "section": 2,
+    "question_number": 2,
+    "question": "There is something about the way the building of monasteries proliferated in eighteenth- century Bavaria, while in the rest of the Western world religious ardor was and church building was consequently declining.",
+    "options": {
+      "A": "enigmatic ... coalescing.",
+      "B": "destructive ... changing",
+      "C": "immutable ... dissipating",
+      "D": "incongruous ... diminishing",
+      "E": "momentous ... diversifying"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 24,
+    "test": 2,
+    "section": 2,
+    "question_number": 3,
+    "question": "Because they had various meanings in nineteenth century biological thought, \u201cmechanism\u201d and \u201cvitalism\u201d ought not to be considered terms; thus, I find the recent insistence that the terms had single definitions to be entirely",
+    "options": {
+      "A": "univocal ... erroneous",
+      "B": "problematic ... anachronistic",
+      "C": "intractable ... obtuse",
+      "D": "congruent ... suspect",
+      "E": "multifaceted ... vapid"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 25,
+    "test": 2,
+    "section": 2,
+    "question_number": 4,
+    "question": "Many Americans believe that individual initiative epitomized the 1890\u2019s and see the entrepreneur as the of that age.",
+    "options": {
+      "A": "caricature",
+      "B": "salvation",
+      "C": "throwback",
+      "D": "aberration",
+      "E": "personification"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 26,
+    "test": 2,
+    "section": 2,
+    "question_number": 5,
+    "question": "Neither the ideas of philosophers nor the practices of ordinary people can, by themselves, reality; what in fact changes reality and kindles revolution is the of the two.",
+    "options": {
+      "A": "constitute ... divergence",
+      "B": "affect ... aim",
+      "C": "transform ... interplay",
+      "D": "preserve ... conjunction",
+      "E": "alter ... intervention"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 27,
+    "test": 2,
+    "section": 2,
+    "question_number": 6,
+    "question": "There has been a tendency among art historians not so much to revise as to eliminate the concept of the Renaissance \u2014 to not only its uniqueness, but its very existence.",
+    "options": {
+      "A": "explain",
+      "B": "extol",
+      "C": "transmute",
+      "D": "regret",
+      "E": "contest"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 28,
+    "test": 2,
+    "section": 2,
+    "question_number": 7,
+    "question": "Employees had become so inured to the caprices of top management\u2019s personnel policies that they greeted the announcement of a company-wide dress code with",
+    "options": {
+      "A": "astonishment",
+      "B": "impassivity",
+      "C": "resentment",
+      "D": "apprehension",
+      "E": "confusion"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 29,
+    "test": 3,
+    "section": 1,
+    "question_number": 1,
+    "question": "Although the feeding activities of whales and walruses give the seafloor of the Bering Shelf a devastated appearance, these activities seem to be actually to the area, its productivity.",
+    "options": {
+      "A": "destructive ... counterbalancing",
+      "B": "rehabilitative ... diminishing",
+      "C": "beneficial ... enhancing",
+      "D": "detrimental ... redirecting",
+      "E": "superfluous ... encumbering"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 30,
+    "test": 3,
+    "section": 1,
+    "question_number": 2,
+    "question": "In an age without radio or recordings, an age by print, fiction gained its greatest ascendancy.",
+    "options": {
+      "A": "decimated",
+      "B": "denigrated",
+      "C": "dominated",
+      "D": "emphasized",
+      "E": "resurrected"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 31,
+    "test": 3,
+    "section": 1,
+    "question_number": 3,
+    "question": "Scientist\u2019 pristine reputation as devotees of the disinterested pursuit of truth has been by recent evidence that some scientists have deliberately experimental results to further their own careers.",
+    "options": {
+      "A": "reinforced ... published",
+      "B": "validated ... suppressed",
+      "C": "exterminated ... replicated",
+      "D": "compromised ... fabricated",
+      "E": "resuscitated ... challenged"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 32,
+    "test": 3,
+    "section": 1,
+    "question_number": 4,
+    "question": "Although Johnson\u2019s and Smith\u2019s initial fascination with the fortunes of those jockeying for power in the law firm _ after a few months, the two paid sufficient attention to determine who their lunch partner should be.",
+    "options": {
+      "A": "revived",
+      "B": "emerged",
+      "C": "intensified",
+      "D": "flagged",
+      "E": "persisted"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 33,
+    "test": 3,
+    "section": 1,
+    "question_number": 5,
+    "question": "A war, even if fought for individual liberty and democratic rights, usually requires that these principles be , for they are the regimentation and discipline necessary for military efficiency.",
+    "options": {
+      "A": "espoused ... contrary to",
+      "B": "suppressed ... fulfilled through",
+      "C": "suspended ... incompatible with",
+      "D": "followed ... disruptive of",
+      "E": "rejected ... inherent in"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 34,
+    "test": 3,
+    "section": 1,
+    "question_number": 6,
+    "question": "To test the of borrowing from one field of study to enrich another, simply investigate the extent to which terms from the one may, without forcing, be the other.",
+    "options": {
+      "A": "risk ... confused with",
+      "B": "universality ... applied to",
+      "C": "decorum ... illuminated by",
+      "D": "rate ... superseded by",
+      "E": "efficacy ... utilized by"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 35,
+    "test": 3,
+    "section": 1,
+    "question_number": 7,
+    "question": "The English novelist William Thackeray considered the cult of the criminal so dangerous that he criticized Dickens\u2019 Oliver Twist for making the characters in the thieves\u2019 kitchen so",
+    "options": {
+      "A": "threatening",
+      "B": "riveting",
+      "C": "conniving",
+      "D": "fearsome",
+      "E": "irritating"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 36,
+    "test": 3,
+    "section": 2,
+    "question_number": 1,
+    "question": "The discovery that, friction excluded, all bodies fall at the same rate is so simple to state and to grasp that there is a tendency to its significance.",
+    "options": {
+      "A": "underrate",
+      "B": "control",
+      "C": "reassess",
+      "D": "praise",
+      "E": "eliminate"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 37,
+    "test": 3,
+    "section": 2,
+    "question_number": 2,
+    "question": "Their mutual teasing seemed , but in fact it a long-standing hostility.",
+    "options": {
+      "A": "aimless ... produced",
+      "B": "friendly ... masked",
+      "C": "playful ... contravened",
+      "D": "bitter ... revealed",
+      "E": "clever ... averted"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 38,
+    "test": 3,
+    "section": 2,
+    "question_number": 3,
+    "question": "Noting that few employees showed any for complying with the corporation\u2019s new safety regulations, Peterson was forced to conclude that acceptance of the regulations would be > at best.",
+    "options": {
+      "A": "aptitude ... unavoidable",
+      "B": "regard ... indeterminate",
+      "C": "respect ... negotiable",
+      "D": "patience ... imminent",
+      "E": "enthusiasm ... grudging"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 39,
+    "test": 3,
+    "section": 2,
+    "question_number": 4,
+    "question": "It has been argued that politics as , whatever its transcendental claims, has always been the systematic organization of common hatreds.",
+    "options": {
+      "A": "a theory",
+      "B": "an ideal",
+      "C": "a practice",
+      "D": "a contest",
+      "E": "an enigma ll"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 40,
+    "test": 3,
+    "section": 2,
+    "question_number": 5,
+    "question": "In many science fiction films, the opposition of good and evil is portrayed as a between technology, which is , and the errant will of a depraved intellectual.",
+    "options": {
+      "A": "fusion ... useful",
+      "B": "struggle ... dehumanizing",
+      "C": "parallel ... unfettered",
+      "D": "conflict ... beneficent",
+      "E": "similarity ... malevolent"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 41,
+    "test": 3,
+    "section": 2,
+    "question_number": 6,
+    "question": "Although scientists claim that the seemingly language of their reports is more precise than the figurative language of fiction, the language of science, like all language, is inherently",
+    "options": {
+      "A": "ornamental ... subtle",
+      "B": "unidimensional ... unintelligible",
+      "C": "symbolic ... complex",
+      "D": "literal ... allusive",
+      "E": "subjective ... metaphorical"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 42,
+    "test": 3,
+    "section": 2,
+    "question_number": 7,
+    "question": "In recent decades the idea that Cezanne influenced Cubism has been caught in the between art historians who credit Braque with its invention and those who Picasso.",
+    "options": {
+      "A": "crossfire ... tout",
+      "B": "interplay ... advocate",
+      "C": "paradox ... prefer",
+      "D": "deliberation ... attribute",
+      "E": "tussle ... substitute"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 43,
+    "test": 4,
+    "section": 1,
+    "question_number": 1,
+    "question": "Although adolescent maturational and developmental states occur in an orderly sequence, their timing with regard to onset and duration.",
+    "options": {
+      "A": "lasts",
+      "B": "varies",
+      "C": "falters",
+      "D": "accelerates",
+      "E": "dwindles"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 44,
+    "test": 4,
+    "section": 1,
+    "question_number": 2,
+    "question": "Many of the earliest colonial houses that are still standing have been so modified and enlarged that the design is no longer",
+    "options": {
+      "A": "pertinent ... relevant",
+      "B": "intended ... necessary",
+      "C": "embellished ... attractive",
+      "D": "appropriate ... applicable",
+      "E": "initial ... discernible"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 45,
+    "test": 4,
+    "section": 1,
+    "question_number": 3,
+    "question": "While the delegate clearly sought to the optimism that has emerged recently, she stopped short of suggesting that the conference was near collapse and might produce nothing of significance.",
+    "options": {
+      "A": "substantiate",
+      "B": "dampen",
+      "C": "encourage",
+      "D": "elucidate",
+      "E": "rekindle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 46,
+    "test": 4,
+    "section": 1,
+    "question_number": 4,
+    "question": "The old man could not have been accused of his affection; his conduct toward the child betrayed his her.",
+    "options": {
+      "A": "lavishing ... fondness for",
+      "B": "sparing ... tolerance of",
+      "C": "rationing ... antipathy for",
+      "D": "stinting ... adoration of",
+      "E": "promising ... dislike of"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 47,
+    "test": 4,
+    "section": 1,
+    "question_number": 5,
+    "question": "A leading chemist believes that many scientists have difficulty with stereochemistry because much of the relevant nomenclature is , in that it combines concepts that should be kept",
+    "options": {
+      "A": "obscure ... interrelated",
+      "B": "specialized ... intact",
+      "C": "subtle ... inviolate",
+      "D": "descriptive ... separate",
+      "E": "imprecise ... discrete"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 48,
+    "test": 4,
+    "section": 1,
+    "question_number": 6,
+    "question": "Among the many of the project, expense cannot be numbered; the goals of the project\u2019s promoters can be achieved with impressive",
+    "options": {
+      "A": "highlights ... efficiency",
+      "B": "features ... savings",
+      "C": "disadvantages ... innovation",
+      "D": "claims ... speed",
+      "E": "defects ... economy"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 49,
+    "test": 4,
+    "section": 1,
+    "question_number": 7,
+    "question": "Though science is often imagined as a exploration of external reality, scientists are no different from anyone else: they are human beings enmeshed in a web of personal and social circumstances.",
+    "options": {
+      "A": "fervent ... vulnerable",
+      "B": "neutral ... rational",
+      "C": "painstaking ... careless",
+      "D": "disinterested ... passionate",
+      "E": "cautious ... dynamic"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 50,
+    "test": 4,
+    "section": 2,
+    "question_number": 1,
+    "question": "Social scientists have established fairly clear-cut that describe the appropriate behavior of children and adults, but there seems to be about what constitutes appropriate behavior for adolescents.",
+    "options": {
+      "A": "functions ... rigidity",
+      "B": "estimates ... indirectness",
+      "C": "norms ... confusion",
+      "D": "regulations ... certainty",
+      "E": "studies ... misapprehension"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 51,
+    "test": 4,
+    "section": 2,
+    "question_number": 2,
+    "question": "As long as nations cannot themselves accumulate enough physical power to dominate all others, they must depend on",
+    "options": {
+      "A": "allies",
+      "B": "resources",
+      "C": "freedom",
+      "D": "education",
+      "E": "self-determination"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 52,
+    "test": 4,
+    "section": 2,
+    "question_number": 3,
+    "question": "We realized that John was still young and impressionable, but were nevertheless surprised at his",
+    "options": {
+      "A": "naivet\u00e9",
+      "B": "obstinateness",
+      "C": "decisiveness",
+      "D": "ingeniousness",
+      "E": "resolve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 53,
+    "test": 4,
+    "section": 2,
+    "question_number": 4,
+    "question": "Although Mount Saint Helens has been more during the last 4,500 years than any other volcano in the coterminous United States, its long dormancy before its recent eruption its violent nature.",
+    "options": {
+      "A": "awe-inspiring ... restrained",
+      "B": "gaseous ... confirmed",
+      "C": "explosive ... belied",
+      "D": "familiar ... moderated",
+      "E": "volatile ... suggested"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 54,
+    "test": 4,
+    "section": 2,
+    "question_number": 5,
+    "question": "Changes of fashion and public taste are often and resistant to analysis, and yet they are among the most gauges of the state of the public\u2019s collective consciousness.",
+    "options": {
+      "A": "transparent ... useful",
+      "B": "ephemeral ... sensitive",
+      "C": "faddish ... underutilized",
+      "D": "arbitrary ... problematic",
+      "E": "permanent ... reliable"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 55,
+    "test": 4,
+    "section": 2,
+    "question_number": 6,
+    "question": "The poet W. H. Auden believed that the greatest poets of his age were almost necessarily irresponsible, that the possession of great gifts the to abuse them.",
+    "options": {
+      "A": "negates ... temptation",
+      "B": "controls ... resolution",
+      "C": "engenders ... propensity",
+      "D": "tempers ... proclivity",
+      "E": "obviates ... inclination"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 56,
+    "test": 4,
+    "section": 2,
+    "question_number": 7,
+    "question": "The self-important cant of musicologists on record jackets often suggests that true appreciation of the music is an process closed to the uninitiated listener, however enthusiastic.",
+    "options": {
+      "A": "unreliable",
+      "B": "arcane",
+      "C": "arrogant",
+      "D": "elementary",
+      "E": "intuitive"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 57,
+    "test": 5,
+    "section": 1,
+    "question_number": 1,
+    "question": "Heavily perfumed white flowers, such as gardenias, were favorites with collectors in the eighteenth century, when was valued much more highly than it is today.",
+    "options": {
+      "A": "scent",
+      "B": "beauty",
+      "C": "elegance",
+      "D": "color",
+      "E": "variety"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 58,
+    "test": 5,
+    "section": 1,
+    "question_number": 2,
+    "question": "In a most impressive demonstration, Pavarotti sailed through Verdi\u2019s \u201cCeleste Aida\u201d, normally a tenor\u2019s , with the casual enthusiasm of a folk singer performing one of his favorite",
+    "options": {
+      "A": "pitfall ... recitals",
+      "B": "glory ... chorales",
+      "C": "nightmare ... ballads",
+      "D": "delight ... chanteys",
+      "E": "routine ... composers"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 59,
+    "test": 5,
+    "section": 1,
+    "question_number": 3,
+    "question": "Dependence on foreign sources of heavy metals, though , remains for United States foreign policy.",
+    "options": {
+      "A": "deepening ... a challenge",
+      "B": "diminishing ... a problem",
+      "C": "excessive ... a dilemma",
+      "D": "debilitating ... an embarrassment",
+      "E": "unavoidable ... a precedent"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 60,
+    "test": 5,
+    "section": 1,
+    "question_number": 4,
+    "question": "Cynics believe that people who compliments do so in order to be praised twice.",
+    "options": {
+      "A": "bask in",
+      "B": "give out",
+      "C": "despair of",
+      "D": "gloat over",
+      "E": "shrug off"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 61,
+    "test": 5,
+    "section": 1,
+    "question_number": 5,
+    "question": "Although nothing could be further from the truth, freight railroads have been of the nation\u2019s shift from oil to coal by charging exorbitant fees to transport coal.",
+    "options": {
+      "A": "accused ... impeding",
+      "B": "proud ... accelerating",
+      "C": "guilty ... delaying",
+      "D": "conscious ... contributing to",
+      "E": "wary ... interfering with"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 62,
+    "test": 5,
+    "section": 1,
+    "question_number": 6,
+    "question": "Although the revelation that one of the contestants was a friend left the judge open to charges of lack of , the judge remained adamant in her assertion that acquaintance did not necessarily imply",
+    "options": {
+      "A": "prudence ... tolerance",
+      "B": "detachment ... foreknowledge",
+      "C": "exoneration ... impropriety",
+      "D": "prejudice ... preference",
+      "E": "disinterestedness ... partiality"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 63,
+    "test": 5,
+    "section": 1,
+    "question_number": 7,
+    "question": "Within the next decade, sophisticated telescopes now orbiting the Earth will determine whether the continents really are moving, the incipient among geologists about the validity of the theory of continental drift.",
+    "options": {
+      "A": "obviating ... consensus",
+      "B": "forestalling ... rift",
+      "C": "escalating ... debates",
+      "D": "engendering ... speculation",
+      "E": "resolving ... rumors"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 64,
+    "test": 5,
+    "section": 2,
+    "question_number": 1,
+    "question": "The commissions criticized the legislature for making college attendance dependent on the ability to pay, charging that, as a result, hundreds of qualified young people would be further education.",
+    "options": {
+      "A": "entitled to",
+      "B": "striving for",
+      "C": "deprived of",
+      "D": "uninterested in",
+      "E": "participating in"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 65,
+    "test": 5,
+    "section": 2,
+    "question_number": 2,
+    "question": "In most Native American cultures, an article used in prayer or ritual is made with extraordinary attention to and richness of detail: it is decorated more than a similar article intended for use.",
+    "options": {
+      "A": "delicately ... vocational",
+      "B": "colorfully ... festive",
+      "C": "creatively ... religious",
+      "D": "subtly ... commercial",
+      "E": "lavishly ... everyday"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 66,
+    "test": 5,
+    "section": 2,
+    "question_number": 3,
+    "question": "Having no sense of moral obligation, Shipler was as little subject to the of conscience after he acted as he was motivated by its before he acted.",
+    "options": {
+      "A": "rewards ... chastisement",
+      "B": "balm ... eloquence",
+      "C": "reproaches ... promptings",
+      "D": "ridicule ... allure",
+      "E": "qualms ... atonement"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 67,
+    "test": 5,
+    "section": 2,
+    "question_number": 4,
+    "question": "Freud derived psychoanalytic knowledge of childhood indirectly: he childhood processes from adult",
+    "options": {
+      "A": "reconstructed ... memory",
+      "B": "condoned ... experience",
+      "C": "incorporated ... behavior",
+      "D": "released ... monotony",
+      "E": "inferred ... anticipation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 68,
+    "test": 5,
+    "section": 2,
+    "question_number": 5,
+    "question": "While she initially suffered the fate of many pioneers \u2014 the incomprehension of her colleagues \u2014 octogenarian Nobel laureate Barbara McClintock has livedto___\u2014_\u2014sthe triumph ofher once scientific theories.",
+    "options": {
+      "A": "descry innovative",
+      "B": "regret insignificant",
+      "C": "perpetuate tentative",
+      "D": "enjoy authoritative",
+      "E": "savor heterodox"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 69,
+    "test": 5,
+    "section": 2,
+    "question_number": 6,
+    "question": "Broadway audiences have become inured to and so to be pleased as to make their ready ovations meaningless as an indicator of the quality of the production before them.",
+    "options": {
+      "A": "sentimentality ... reluctant",
+      "B": "condescension ... disinclined",
+      "C": "histrionics ... unlikely",
+      "D": "cleverness ... eager",
+      "E": "mediocrity ... desperate"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 70,
+    "test": 5,
+    "section": 2,
+    "question_number": 7,
+    "question": "Any language is a conspiracy against experience in the sense that it is a collective attempt to experience by reducing it into discrete parcels.",
+    "options": {
+      "A": "extrapolate",
+      "B": "transcribe",
+      "C": "complicate",
+      "D": "amplify",
+      "E": "manage CECAE EE 20 6-1"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 71,
+    "test": 6,
+    "section": 1,
+    "question_number": 1,
+    "question": "By divesting himself of all regalities, the former king protects monarchs.",
+    "options": {
+      "A": "merited",
+      "B": "forfeited",
+      "C": "debased",
+      "D": "concealed",
+      "E": "extended"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 72,
+    "test": 6,
+    "section": 1,
+    "question_number": 2,
+    "question": "the consideration that customarily A perennial goal in zoology is to infer function from , relating the of an organism to its physical form and cellular organization.",
+    "options": {
+      "A": "age ... ancestry",
+      "B": "classification ... appearance",
+      "C": "size ... movement",
+      "D": "structure ... behavior",
+      "E": "location ... habitat"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 73,
+    "test": 6,
+    "section": 1,
+    "question_number": 3,
+    "question": "The sociologist responded to the charge that her new theory was did not in fact contradict accepted sociological principles.",
+    "options": {
+      "A": "banal",
+      "B": "heretical",
+      "C": "unproven",
+      "D": "complex",
+      "E": "superficial"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 74,
+    "test": 6,
+    "section": 1,
+    "question_number": 4,
+    "question": "Industrialists seized economic power only after industry had preeminent form of production; previously such power had",
+    "options": {
+      "A": "sabotaged ... threatened",
+      "B": "overtaken ... produced",
+      "C": "toppled ... culminated in",
+      "D": "joined ... relied on",
+      "E": "supplanted ... resided in 21 by pointing out that it agriculture as the land ownership."
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 75,
+    "test": 6,
+    "section": 1,
+    "question_number": 5,
+    "question": "Rumors, embroidered with detail, live on for years, neither denied nor confirmed, until they become accepted as fact even among people not known for their",
+    "options": {
+      "A": "insight",
+      "B": "obstinacy",
+      "C": "introspection",
+      "D": "tolerance",
+      "E": "credulity"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 76,
+    "test": 6,
+    "section": 1,
+    "question_number": 6,
+    "question": "No longer by the belief that the world around us was expressly designed for humanity, many people try to find intellectual for that lost certainty in astrology and in mysticism.",
+    "options": {
+      "A": "satisfied ... reasons",
+      "B": "sustained ... substitutes",
+      "C": "reassured ... justifications",
+      "D": "hampered ... equivalents",
+      "E": "restricted ... parallels"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 77,
+    "test": 6,
+    "section": 1,
+    "question_number": 7,
+    "question": "People should not be praised for their virtue if they lack the energy to be ; in such cases, goodness is merely the effect of",
+    "options": {
+      "A": "depraved ... hesitation",
+      "B": "cruel ... effortlessness",
+      "C": "wicked ... indolence",
+      "D": "unjust ... boredom",
+      "E": "iniquitous ... impiety BDBEE BC 22 6-2"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 78,
+    "test": 6,
+    "section": 2,
+    "question_number": 1,
+    "question": "Animals that have tasted unpalatable plants tend to them afterward on the basis of their most conspicuous features, such as their flowers.",
+    "options": {
+      "A": "recognize",
+      "B": "hoard",
+      "C": "trample",
+      "D": "retrieve",
+      "E": "approach"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 79,
+    "test": 6,
+    "section": 2,
+    "question_number": 2,
+    "question": "As for the alleged value of expert opinion, one need only government records to see evidence of the failure of such opinions in many fields.",
+    "options": {
+      "A": "inspect ... questionable",
+      "B": "retain ... circumstantial",
+      "C": "distribute ... possible",
+      "D": "consult ... strong",
+      "E": "evaluate ... problematic"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 80,
+    "test": 6,
+    "section": 2,
+    "question_number": 3,
+    "question": "In scientific inquiry, it becomes a matter of duty to expose a hypothesis to every possible kind of",
+    "options": {
+      "A": "tentative ... examination",
+      "B": "debatable ... approximation",
+      "C": "well-established ... rationalization",
+      "D": "logical ... elaboration",
+      "E": "suspect ... correlation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 81,
+    "test": 6,
+    "section": 2,
+    "question_number": 4,
+    "question": "Charlotte Salomon\u2019s biography is a reminder that the currents of private life, however diverted, dislodged, or twisted by public events, retain their hold on the recording them.",
+    "options": {
+      "A": "transitory ... culture",
+      "B": "dramatic ... majority",
+      "C": "overpowering ... individual",
+      "D": "conventional ... audience",
+      "E": "relentless ... institution 23"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 82,
+    "test": 6,
+    "section": 2,
+    "question_number": 5,
+    "question": "Philosophical problems arise when people ask questions that, though very , have certain characteristics in common.",
+    "options": {
+      "A": "relevant",
+      "B": "elementary",
+      "C": "abstract",
+      "D": "diverse",
+      "E": "controversial"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 83,
+    "test": 6,
+    "section": 2,
+    "question_number": 6,
+    "question": "Although Johnson _ great enthusiasm for his employees\u2019 project, in reality his interest in the project was so as to be almost non-existent.",
+    "options": {
+      "A": "generated ... redundant",
+      "B": "displayed ... preemptive",
+      "C": "expected ... indiscriminate",
+      "D": "feigned ... perfunctory",
+      "E": "demanded ... dispassionate"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 84,
+    "test": 6,
+    "section": 2,
+    "question_number": 7,
+    "question": "Not all the indicators necessary to convey the effect of depth in a picture work simultaneously; the picture\u2019s illusion of three-dimensional appearance must therefore result from the viewer\u2019s integration of various indicators perceived",
+    "options": {
+      "A": "imitative ... coincidentally",
+      "B": "uniform ... successively",
+      "C": "temporary ... comprehensively",
+      "D": "expressive ... sympathetically",
+      "E": "schematic ... passively ADACD DB 24 7-1"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 85,
+    "test": 7,
+    "section": 1,
+    "question_number": 1,
+    "question": "Her should not be confused with miserliness; as long as I have known her, she has always been willing to assist those who are in need.",
+    "options": {
+      "A": "intemperance",
+      "B": "intolerance",
+      "C": "apprehension",
+      "D": "diffidence",
+      "E": "frugality"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 86,
+    "test": 7,
+    "section": 1,
+    "question_number": 2,
+    "question": "Natural selection tends to eliminate genes that cause inherited diseases, acting most strongly against the most severe diseases; consequently, hereditary diseases that are would be expected to be very , but, surprisingly, they are not.",
+    "options": {
+      "A": "lethal ... rare",
+      "B": "untreated ... dangerous",
+      "C": "unusual ... refractory",
+      "D": "new ... perplexing",
+      "E": "widespread ... acute"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 87,
+    "test": 7,
+    "section": 1,
+    "question_number": 3,
+    "question": "Unfortunately, his damaging attacks on the ramifications of the economic policy have been by his wholehearted acceptance of that policy\u2019s underlying assumptions.",
+    "options": {
+      "A": "supplemented",
+      "B": "undermined",
+      "C": "wasted",
+      "D": "diverted",
+      "E": "redeemed"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 88,
+    "test": 7,
+    "section": 1,
+    "question_number": 4,
+    "question": "During the opera\u2019s most famous aria the tempo chosen by the orchestra\u2019s conductor seemed , without necessary relation to what had gone before.",
+    "options": {
+      "A": "tedious",
+      "B": "melodious",
+      "C": "capricious",
+      "D": "compelling",
+      "E": "cautious 25"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 89,
+    "test": 7,
+    "section": 1,
+    "question_number": 5,
+    "question": "In the machinelike world of classical physics, the human intellect appears , since the mechanical nature of classical physics does not creative reasoning, the very ability that had made the formulation of classical principles possible.",
+    "options": {
+      "A": "anomalous ... allow for",
+      "B": "abstract ... speak to",
+      "C": "anachronistic ... deny",
+      "D": "enduring ... value",
+      "E": "contradictory ... exclude"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 90,
+    "test": 7,
+    "section": 1,
+    "question_number": 6,
+    "question": "During the 1960\u2019s assessments of the family shifted remarkably, from general endorsement of it as a worthwhile, stable institution to widespread it as an oppressive and bankrupt one whose was both imminent and welcome.",
+    "options": {
+      "A": "flight from ... restitution",
+      "B": "fascination with ... corruption",
+      "C": "rejection of ... vogue",
+      "D": "censure of ... dissolution",
+      "E": "relinquishment of ... ascent"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 91,
+    "test": 7,
+    "section": 1,
+    "question_number": 7,
+    "question": "Documenting science\u2019s philosophy would be , Since it is almost axiomatic that many philosophers use scientific concepts as the foundations for their speculations.",
+    "options": {
+      "A": "distrust of ... elementary",
+      "B": "influence on ... superfluous",
+      "C": "reliance on ... inappropriate",
+      "D": "dependence on ... difficult",
+      "E": "differences from ... impossible EABCA DB 26 7-2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 92,
+    "test": 7,
+    "section": 2,
+    "question_number": 1,
+    "question": "The spellings of many Old English words have been in the living language, although their pronunciations have changed.",
+    "options": {
+      "A": "preserved",
+      "B": "shortened",
+      "C": "preempted",
+      "D": "revised",
+      "E": "improved"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 93,
+    "test": 7,
+    "section": 2,
+    "question_number": 2,
+    "question": "The sheer diversity of tropical plants represents a seemingly source of raw materials, of which only a few have been utilized.",
+    "options": {
+      "A": "exploited",
+      "B": "quantifiable",
+      "C": "controversial",
+      "D": "inexhaustible",
+      "E": "remarkable"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 94,
+    "test": 7,
+    "section": 2,
+    "question_number": 3,
+    "question": "For centuries animals have been used as for people in experiments to assess the effects of therapeutic and other agents that might later be used in humans.",
+    "options": {
+      "A": "benefactors",
+      "B": "companions",
+      "C": "examples",
+      "D": "precedents",
+      "E": "surrogates"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 95,
+    "test": 7,
+    "section": 2,
+    "question_number": 4,
+    "question": "Social tensions among adult factions can be by politics, but adolescents and children have no such for resolving their conflict with the exclusive world of adults.",
+    "options": {
+      "A": "intensified ... attitude",
+      "B": "complicated ... relief",
+      "C": "frustrated ... justification",
+      "D": "adjusted ... mechanism",
+      "E": "revealed ... opportunity 27"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 96,
+    "test": 7,
+    "section": 2,
+    "question_number": 5,
+    "question": "The state is a network of exchanged benefits and beliefs, between rulers and citizens based on those laws and procedures that are to the maintenance of community.",
+    "options": {
+      "A": "a compromise ... inimical",
+      "B": "an interdependence ... subsidiary",
+      "C": "a counterpoint ... incidental",
+      "D": "an equivalence ... prerequisite",
+      "E": "a reciprocity ... conducive"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 97,
+    "test": 7,
+    "section": 2,
+    "question_number": 6,
+    "question": "Far from viewing Jefferson as a skeptical but enlightened intellectual, historians of the 1960\u2019s portrayed him as thinker, eager to fill the young with his political orthodoxy while censoring ideas he did not like.",
+    "options": {
+      "A": "an adventurous",
+      "B": "a doctrinaire",
+      "C": "an eclectic",
+      "D": "a judicious",
+      "E": "a cynical"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 98,
+    "test": 7,
+    "section": 2,
+    "question_number": 7,
+    "question": "To have true disciples, a thinker must not be too : any effective intellectual leader depends on the ability of other people to thought processes that did not originate with them.",
+    "options": {
+      "A": "popular ... dismiss",
+      "B": "methodical ... interpret",
+      "C": "idiosyncratic ... reenact",
+      "D": "self-confident ... revitalize",
+      "E": "pragmatic ... discourage ADEDE BC 28 8-1"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 99,
+    "test": 8,
+    "section": 1,
+    "question_number": 1,
+    "question": "Even though formidable winters are the norm in the Dakotas, many people were unprepared for the of the blizzard of 1888.",
+    "options": {
+      "A": "inevitability B) ferocity",
+      "C": "importance",
+      "D": "probability",
+      "E": "mildness"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 100,
+    "test": 8,
+    "section": 1,
+    "question_number": 2,
+    "question": "As the first streamlined car, the Airflow represented a in automotive development, and although its sales were , it had an immense influence on automobile design.",
+    "options": {
+      "A": "milestone ... disappointing",
+      "B": "breakthrough ... significant",
+      "C": "regression ... unimportant",
+      "D": "misjudgment ... calculable",
+      "E": "revolution ... tolerable"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 101,
+    "test": 8,
+    "section": 1,
+    "question_number": 3,
+    "question": "While nurturing parents can compensate for adversity, cold or inconsistent parents may it.",
+    "options": {
+      "A": "exacerbate",
+      "B": "neutralize",
+      "C": "eradicate",
+      "D": "ameliorate",
+      "E": "relieve"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 102,
+    "test": 8,
+    "section": 1,
+    "question_number": 4,
+    "question": "The architects of New York\u2019s early skyscrapers, hinting here at a twelfth-century cathedral, there at a fifteenth-century palace, sought to legitimize the city\u2019s social strivings by a history the city did not truly",
+    "options": {
+      "A": "revealing ... deserve",
+      "B": "displaying ... desire",
+      "C": "evoking ... possess",
+      "D": "preserving ... experience",
+      "E": "flouting ... believe 29"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 103,
+    "test": 8,
+    "section": 1,
+    "question_number": 5,
+    "question": "Actual events in the history of life on Earth are accidental in that any outcome embodies just one among millions; yet each out-come can be interpreted.",
+    "options": {
+      "A": "coincidence ... randomly",
+      "B": "relationship ... predictably",
+      "C": "fact ... readily",
+      "D": "happening ... uniquely",
+      "E": "possibility ... rationally"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 104,
+    "test": 8,
+    "section": 1,
+    "question_number": 6,
+    "question": "Although some of her fellow scientists the unorthodox laboratory methodology that others found innovative, unanimous praise greeted her experimental results: at once pioneering and",
+    "options": {
+      "A": "ignored ... untrustworthy",
+      "B": "complimented ... foreseeable",
+      "C": "welcomed ... mundane",
+      "D": "decried ... unexceptionable",
+      "E": "attacked ... inconclusive"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 105,
+    "test": 8,
+    "section": 1,
+    "question_number": 7,
+    "question": "Early critics of Emily Dickinson\u2019s poetry mistook for simplemindedness the surface of artlessness that in fact she constructed with such",
+    "options": {
+      "A": "astonishment",
+      "B": "vexation",
+      "C": "allusion",
+      "D": "innocence",
+      "E": "cunning BAACE DE 30 8-2"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 106,
+    "test": 8,
+    "section": 2,
+    "question_number": 1,
+    "question": "This project is the first step in a long-range plan of research whose goal, still many years off, is the creation of a new prototype.",
+    "options": {
+      "A": "cooperative",
+      "B": "reasoned",
+      "C": "original",
+      "D": "ultimate",
+      "E": "intentional"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 107,
+    "test": 8,
+    "section": 2,
+    "question_number": 2,
+    "question": "Eric was frustrated because, although he was adept at making lies sound , when telling the truth, he the power to make himself believed.",
+    "options": {
+      "A": "plausible ... lacked",
+      "B": "convincing ... held",
+      "C": "honest ... found",
+      "D": "true ... acquired",
+      "E": "logical ... claimed"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 108,
+    "test": 8,
+    "section": 2,
+    "question_number": 3,
+    "question": "In certain forms of discourse such as the parable, the central point of a message can be effectively communicated even though this point is not",
+    "options": {
+      "A": "preferred",
+      "B": "explicit",
+      "C": "inferable",
+      "D": "discerned",
+      "E": "illustrated"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 109,
+    "test": 8,
+    "section": 2,
+    "question_number": 4,
+    "question": "Always circumspect, she was reluctant to make judgments, but once arriving at a conclusion, she was in its defense.",
+    "options": {
+      "A": "nonplussed",
+      "B": "obsequious",
+      "C": "intransigent",
+      "D": "deferential",
+      "E": "negligent 31"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 110,
+    "test": 8,
+    "section": 2,
+    "question_number": 5,
+    "question": "The techniques now available to livestock breeders will continue to be , but will probably be by new ones under development.",
+    "options": {
+      "A": "fruitful ... reversed",
+      "B": "refined ... upgraded",
+      "C": "inconvenient ... reassessed",
+      "D": "used ... supplemented",
+      "E": "harmless ... improved"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 111,
+    "test": 8,
+    "section": 2,
+    "question_number": 6,
+    "question": "Any population increase beyond a certain level necessitates greater vegetable foods; thus, the ability of a society to choose meat over cereals always arises, in part, from the number of people.",
+    "options": {
+      "A": "reliance on ... replenishing",
+      "B": "production of ... estimating",
+      "C": "spending on ... concealing",
+      "D": "recourse to ... limiting",
+      "E": "attention to ... varying"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 112,
+    "test": 8,
+    "section": 2,
+    "question_number": 7,
+    "question": "Ethologists are convinced that many animals survive through learning\u2014but learning that is their genetic programming, learning as thoroughly as the most instinctive of behavioral responses.",
+    "options": {
+      "A": "superseded by ... primitive",
+      "B": "compatible with ... transient",
+      "C": "complementary to ... familiar",
+      "D": "derived from ... inventive",
+      "E": "dictated by ... stereotyped DABCD DE 32 9-1"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 113,
+    "test": 9,
+    "section": 1,
+    "question_number": 1,
+    "question": "Though some of the information the author reveals about Russian life might surprise Americans, her major themes are enough.",
+    "options": {
+      "A": "familiar",
+      "B": "thorough",
+      "C": "vital",
+      "D": "original",
+      "E": "interesting"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 114,
+    "test": 9,
+    "section": 1,
+    "question_number": 2,
+    "question": "In the early twentieth century, the discovery of radium the popular imagination; not only was its discoverer, Marie Curie, idolized, but its market value that of the rarest gemstone.",
+    "options": {
+      "A": "stormed ... sank to",
+      "B": "horrified ... approached",
+      "C": "taxed ... was equal to",
+      "D": "enflamed ... exceeded",
+      "E": "escaped ... was comparable to"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 115,
+    "test": 9,
+    "section": 1,
+    "question_number": 3,
+    "question": "The president\u2019s secretary and his chief aide adored him, and both wrote obsessively personal memoirs about him; unfortunately, however, does not make for true intimacy.",
+    "options": {
+      "A": "fatuous ... frankness",
+      "B": "devoted ... idolatry",
+      "C": "garrulous ... confidentiality",
+      "D": "candid ... discretion",
+      "E": "rancorous ... criticism"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 116,
+    "test": 9,
+    "section": 1,
+    "question_number": 4,
+    "question": "Despite claims that his philosophy can be traced to source, the philosophy in fact draws liberally on several traditions and methodologies and so could justifiably be termed",
+    "options": {
+      "A": "a particular ... consistent",
+      "B": "a schematic ... multifaceted",
+      "C": "a dominant ... cogent",
+      "D": "an authoritative ... derivative",
+      "E": "a single ... eclectic 33"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 117,
+    "test": 9,
+    "section": 1,
+    "question_number": 5,
+    "question": "Du Bois\u2019 foreign trips were the highlight, not the , of his travels; he was habitually on the go across and around the United States.",
+    "options": {
+      "A": "idiosyncrasy",
+      "B": "result",
+      "C": "precursor",
+      "D": "culmination",
+      "E": "totality"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 118,
+    "test": 9,
+    "section": 1,
+    "question_number": 6,
+    "question": "Business forecasts usually prove reasonably accurate when the assumption that the future will be much like the past is ; in times of major in the business environment, however, forecasts can be dangerously wrong.",
+    "options": {
+      "A": "specified ... discontinuities",
+      "B": "questioned ... surges",
+      "C": "contradicted ... improvements",
+      "D": "entertained ... risks",
+      "E": "satisfied ... shifts"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 119,
+    "test": 9,
+    "section": 1,
+    "question_number": 7,
+    "question": "It is almost always desirable to increase the yield of a crop if increases are not also necessary in energy, labor, and other inputs of crop production.",
+    "options": {
+      "A": "predetermined",
+      "B": "commensurate",
+      "C": "compatible",
+      "D": "measured",
+      "E": "equivocal ADBEE EB 34 9-2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 120,
+    "test": 9,
+    "section": 2,
+    "question_number": 1,
+    "question": "Job failure means being fired from a job, being asked to resign, or leaving to protect yourself because you had very strong evidence that one of the first two was",
+    "options": {
+      "A": "voluntarily ... impending",
+      "B": "abruptly ... significant",
+      "C": "knowingly ... operative",
+      "D": "understandably ... pertinent",
+      "E": "eventually ... intentional"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 121,
+    "test": 9,
+    "section": 2,
+    "question_number": 2,
+    "question": "The tone of Jane Carlyle\u2019s letter is guarded, and her feelings are always by the wit and pride that made plea for sympathy impossible for her.",
+    "options": {
+      "A": "masked ... a direct",
+      "B": "bolstered ... a needless",
+      "C": "controlled ... a circumspect",
+      "D": "enhanced ... an intentional",
+      "E": "colored ... an untimely"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 122,
+    "test": 9,
+    "section": 2,
+    "question_number": 3,
+    "question": "French folktales almost always take place within the basic that correspond to the setting of peasant life: on the one hand, the household and village and on the other, the open road.",
+    "options": {
+      "A": "contexts ... hierarchical",
+      "B": "structures ... personal",
+      "C": "frameworks ... dual",
+      "D": "chronologies ... generic",
+      "E": "narratives ... ambivalent"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 123,
+    "test": 9,
+    "section": 2,
+    "question_number": 4,
+    "question": "Nurturing the Royal Ballet\u2019s artistic growth while preserving its institutional stability has been difficult, because the claims of the latter seem inescapably to development; apparently, attaining artistic success is simpler than it.",
+    "options": {
+      "A": "ensure ... promoting",
+      "B": "inhibit ... perpetuating",
+      "C": "undermine ... resurrecting",
+      "D": "modify ... appreciating",
+      "E": "supplement ... confining 35"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 124,
+    "test": 9,
+    "section": 2,
+    "question_number": 5,
+    "question": "Inspired interim responses to hitherto unknown problems, New Deal economic strategems became as a result of bureaucratization, their flexibility and adaptability destroyed by their transformation into rigid policies.",
+    "options": {
+      "A": "politicized",
+      "B": "consolidated",
+      "C": "ossified",
+      "D": "ungovernable",
+      "E": "streamlined"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 125,
+    "test": 9,
+    "section": 2,
+    "question_number": 6,
+    "question": "Biologists isolated oceanic islands like the Galapagos, because, in such small, laboratory- like settings, the rich hurly-burly of continental plant and animal communities is reduced to a scientifically complexity.",
+    "options": {
+      "A": "explore ... diverse",
+      "B": "desert ... manageable",
+      "C": "exploit ... intimidating",
+      "D": "reject ... intricate",
+      "E": "prize ... tractable"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 126,
+    "test": 9,
+    "section": 2,
+    "question_number": 7,
+    "question": "The startling finding that variations in the rate of the Earth\u2019s rotation depend to an degree on the weather has necessitated a complete of the world\u2019s time-keeping methods.",
+    "options": {
+      "A": "unexpected ... overhaul",
+      "B": "anticipated ... recalibration",
+      "C": "indeterminate ... rejection",
+      "D": "unobservable ... review",
+      "E": "estimated ... acceptance AACBC EA 36 10-1"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 127,
+    "test": 10,
+    "section": 1,
+    "question_number": 1,
+    "question": "It was a war the queen and her more prudent counselors wished to if they could and were determined in any event to as long as possible.",
+    "options": {
+      "A": "provoke ... delay",
+      "B": "denounce ... deny",
+      "C": "instigate ... conceal",
+      "D": "curtail ... promote",
+      "E": "avoid ... postpone"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 128,
+    "test": 10,
+    "section": 1,
+    "question_number": 2,
+    "question": "Despite many decades of research on the gasification of coal, the data accumulated are not directly to environmental questions; thus a new program of research specifically addressing such questions is",
+    "options": {
+      "A": "analogous ... promising",
+      "B": "transferable ... contradictory",
+      "C": "antithetical ... unremarkable",
+      "D": "applicable ... warranted",
+      "E": "pertinent ... unnecessary"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 129,
+    "test": 10,
+    "section": 1,
+    "question_number": 3,
+    "question": "Unlike other creatures, who are shaped largely by their environment, human beings are products of a culture accumulated over centuries, yet one that is constantly being by massive infusions of new information from everywhere.",
+    "options": {
+      "A": "harsh ... unconfirmed",
+      "B": "surrounding ... upheld",
+      "C": "immediate ... transformed",
+      "D": "natural... mechanized",
+      "E": "limited. superseded"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 130,
+    "test": 10,
+    "section": 1,
+    "question_number": 4,
+    "question": "Edith Wharton sought in her memoir to present herself as having achieved a harmonious wholeness by having the conflicting elements of her life.",
+    "options": {
+      "A": "affirmed",
+      "B": "highlighted",
+      "C": "reconciled",
+      "D": "confined",
+      "E": "identified 37"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 131,
+    "test": 10,
+    "section": 1,
+    "question_number": 5,
+    "question": "In their preface, the collection\u2019s editors plead that certain of the important articles they were published too recently for inclusion, but in the case of many such articles, this is not valid.",
+    "options": {
+      "A": "discussed ... replacement",
+      "B": "omitted ... excuse",
+      "C": "revised ... clarification",
+      "D": "disparaged ... justification",
+      "E": "ignored ... endorsement"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 132,
+    "test": 10,
+    "section": 1,
+    "question_number": 6,
+    "question": "The labor union and the company\u2019s management, despite their long history of unfailingly acerbic disagreement on nearly every issue, have nevertheless reached an unexpectedly , albeit still tentative, agreement on next year\u2019s contract.",
+    "options": {
+      "A": "swift",
+      "B": "onerous",
+      "C": "hesitant",
+      "D": "reluctant",
+      "E": "conclusive"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 133,
+    "test": 10,
+    "section": 1,
+    "question_number": 7,
+    "question": "In response to the follies of today\u2019s commercial and political worlds, the author does not inflamed indignation, but rather the detachment and smooth aphoristic prose of an eighteenth-century wit.",
+    "options": {
+      "A": "display ... rails at",
+      "B": "rely on ... avoids",
+      "C": "suppress ... clings to",
+      "D": "express ... affects",
+      "E": "resort to ... spurns EDCCB AD 38 10-2"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 134,
+    "test": 10,
+    "section": 2,
+    "question_number": 1,
+    "question": "Vaillant, who has been particularly interested in the means by which people attain mental health, seems to be looking for answers: a way to close the book on at least a few questions about human nature.",
+    "options": {
+      "A": "definitive",
+      "B": "confused",
+      "C": "temporary",
+      "D": "personal",
+      "E": "derivative"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 135,
+    "test": 10,
+    "section": 2,
+    "question_number": 2,
+    "question": "The well-trained engineer must understand fields as diverse as physics, economics, geology, and sociology; thus, an overly engineering curriculum should be avoided.",
+    "options": {
+      "A": "narrow",
+      "B": "innovative",
+      "C": "competitive",
+      "D": "rigorous",
+      "E": "academic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 136,
+    "test": 10,
+    "section": 2,
+    "question_number": 3,
+    "question": "Although supernovas are among the most of cosmic events, these stellar explosions are often hard to , either because they are enormously far away or because they are dimmed by intervening dust and gas clouds.",
+    "options": {
+      "A": "remote ... observe",
+      "B": "luminous ... detect",
+      "C": "predictable ... foresee",
+      "D": "ancient ... determine",
+      "E": "violent ... disregard"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 137,
+    "test": 10,
+    "section": 2,
+    "question_number": 4,
+    "question": "During the widespread fuel shortage, the price of gasoline was so that suppliers were generally thought to be the consumer.",
+    "options": {
+      "A": "reactive ... shielding",
+      "B": "stable ... blackmailing",
+      "C": "depressed ... cheating",
+      "D": "prohibitive ... placating",
+      "E": "excessive ... gouging 39"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 138,
+    "test": 10,
+    "section": 2,
+    "question_number": 5,
+    "question": "Art science, but that does not mean that the artist must also be a scientist; an artist uses the fruits of science but need not the theories from which they derive.",
+    "options": {
+      "A": "precedes ... anticipate",
+      "B": "incorporates ... understand",
+      "C": "transcends ... abandon",
+      "D": "imitates ... repudiate",
+      "E": "resembles ... contest"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 139,
+    "test": 10,
+    "section": 2,
+    "question_number": 6,
+    "question": "Imposing steep fines on employers for on-the-job injuries to workers could be an effective to creating a safer workplace, especially in the case of employers with poor safety records.",
+    "options": {
+      "A": "antidote",
+      "B": "alternative",
+      "C": "addition",
+      "D": "deterrent",
+      "E": "incentive"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 140,
+    "test": 10,
+    "section": 2,
+    "question_number": 7,
+    "question": "Literature is inevitably a rather than medium for the simple reason that writers interpose their own vision between the reader and reality.",
+    "options": {
+      "A": "distorting ... a neutral",
+      "B": "transparent ... an opaque",
+      "C": "colorful ... a drab",
+      "D": "flawless ... an inexact",
+      "E": "flexible ... a rigid AABEB EA 40 11-1"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 141,
+    "test": 11,
+    "section": 1,
+    "question_number": 1,
+    "question": "With its maverick approach to the subject, Shere Hite\u2019s book has been more widely debated than most; the media throughout the country have brought the author\u2019s opinions to the public\u2019s attention.",
+    "options": {
+      "A": "controversial",
+      "B": "authoritative",
+      "C": "popular",
+      "D": "conclusive",
+      "E": "articulate"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 142,
+    "test": 11,
+    "section": 1,
+    "question_number": 2,
+    "question": "Though many medieval women possessed devotional books that had belonged to their mothers, formal written evidence of women bequeathing books to their daughters is scarce, which suggests that such bequests were and required no",
+    "options": {
+      "A": "unselfish ... rationalization",
+      "B": "tangential ... approval",
+      "C": "customary ... documentation",
+      "D": "covert ... discretion",
+      "E": "spurious ... record"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 143,
+    "test": 11,
+    "section": 1,
+    "question_number": 3,
+    "question": "Although their initial anger had somewhat, they continued to the careless worker who had broken the machine.",
+    "options": {
+      "A": "blazed ... assail",
+      "B": "diminished ...appease",
+      "C": "abated ... berate",
+      "D": "subsided ... condone",
+      "E": "intensified ... torment"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 144,
+    "test": 11,
+    "section": 1,
+    "question_number": 4,
+    "question": "Borrowing a copyrighted book from a library amounts to a form of theft by entrenched custom: the copyright owner\u2019s property, the book, is used repeatedly without for such use.",
+    "options": {
+      "A": "engendered ... application",
+      "B": "anticipated ... acknowledgement",
+      "C": "sanctioned ... compensation",
+      "D": "provoked ... adjustment",
+      "E": "perpetrated ... permission 41"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 145,
+    "test": 11,
+    "section": 1,
+    "question_number": 5,
+    "question": "The notion that a parasite can alter the behavior of a host organism is not mere fiction; indeed, the phenomenon is not even",
+    "options": {
+      "A": "observable",
+      "B": "real",
+      "C": "comprehended",
+      "D": "rare",
+      "E": "imaginable"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 146,
+    "test": 11,
+    "section": 1,
+    "question_number": 6,
+    "question": "Although Shakespeare received little formal education, scholarship has in recent years the view that he was the work of classical authors.",
+    "options": {
+      "A": "substantiated ... unimpressed by",
+      "B": "eroded ... obsessed by",
+      "C": "supported ... oblivious to",
+      "D": "questioned ... influenced by",
+      "E": "undermined ... unfamiliar with"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 147,
+    "test": 11,
+    "section": 1,
+    "question_number": 7,
+    "question": "Darwin\u2019s method did not really the idea of race as an important conceptual category; even the much more central idea of species was little more than a theoretical",
+    "options": {
+      "A": "require ... convenience",
+      "B": "apply ... measurement",
+      "C": "exclude ... practice",
+      "D": "subsume ... validation",
+      "E": "reject ... fact ACCCD EA 42 11-2"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 148,
+    "test": 11,
+    "section": 2,
+    "question_number": 1,
+    "question": "The functions of the hands, eyes, and brain are so that using the hands during early childhood helps to promote the child\u2019s entire development.",
+    "options": {
+      "A": "intertwined ... perceptual",
+      "B": "unalterable ... intellectual",
+      "C": "enigmatic ... psychological",
+      "D": "regulated ... adolescent",
+      "E": "individualized ... social"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 149,
+    "test": 11,
+    "section": 2,
+    "question_number": 2,
+    "question": "Before 1500 North America was inhabited by more than 300 cultural groups, each with different customs, social structures, world views, and languages; such diversity the existence of a single Native American culture.",
+    "options": {
+      "A": "complements",
+      "B": "implies",
+      "C": "reiterates",
+      "D": "argues against",
+      "E": "explains away"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 150,
+    "test": 11,
+    "section": 2,
+    "question_number": 3,
+    "question": "That dealers enough to nurture a young modern painter\u2019s career rather than plunder it exist is not impossible, but the public\u2019s appetite for modern art makes such dealers less and less likely.",
+    "options": {
+      "A": "chivalrous ... discriminating",
+      "B": "magnanimous ... quirky",
+      "C": "patient ... insatiable",
+      "D": "cynical ... finicky",
+      "E": "reckless ... zealous"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 151,
+    "test": 11,
+    "section": 2,
+    "question_number": 4,
+    "question": "In the absence of any caused by danger, hardship, or even cultural difference, most utopian communities deteriorate into but enervating backwaters.",
+    "options": {
+      "A": "turmoil ... frantic",
+      "B": "mistrust ... naive",
+      "C": "amelioration ... ignorant",
+      "D": "decimation ... intrusive",
+      "E": "stimulation ... placid 43"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 152,
+    "test": 11,
+    "section": 2,
+    "question_number": 5,
+    "question": "As Juanita argued, this new code of conduct is laughable; its principles are either > offering no wisdom but the obvious, or are so devoid of specific advice as to make almost any action .",
+    "options": {
+      "A": "irresolute ... unlikely",
+      "B": "corroborative ... redundant",
+      "C": "platitudinous ... justifiable",
+      "D": "homogeneous ... impartial",
+      "E": "labyrinthine ... unacceptable"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 153,
+    "test": 11,
+    "section": 2,
+    "question_number": 6,
+    "question": "Histocompatibility antigens that attack foreign tissue in the body cannot have been through evolution expressly to organ transplantation; on the contrary, they have been found to facilitate many essential biological functions.",
+    "options": {
+      "A": "designed ... retain",
+      "B": "produced ... aid",
+      "C": "developed ... enhance",
+      "D": "selected ... promote",
+      "E": "conserved ... foil"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 154,
+    "test": 11,
+    "section": 2,
+    "question_number": 7,
+    "question": "Their air of cheerful self-sacrifice and endless complaisance won them undeserved praise, for their seeming gallantry was wholly motivated by a wish to avoid conflict of any sort.",
+    "options": {
+      "A": "poignant",
+      "B": "sincere",
+      "C": "plaintive",
+      "D": "laudable",
+      "E": "craven ADCEC EE 44 12-1"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 155,
+    "test": 12,
+    "section": 1,
+    "question_number": 1,
+    "question": "By idiosyncratically refusing to dismiss an insubordinate member of his staff, the manager not only established policy, but he also his heretofore good chances for promotion.",
+    "options": {
+      "A": "instituted ... bettered",
+      "B": "recognized ... protected",
+      "C": "contravened ... jeopardized",
+      "D": "reiterated ... computed",
+      "E": "delimited ... restricted"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 156,
+    "test": 12,
+    "section": 1,
+    "question_number": 2,
+    "question": "Congress is having great difficulty developing a consensus on energy policy, primarily because the policy objectives of various members of Congress rest on such assumptions.",
+    "options": {
+      "A": "commonplace",
+      "B": "trivial",
+      "C": "explicit",
+      "D": "divergent",
+      "E": "fundamental"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 157,
+    "test": 12,
+    "section": 1,
+    "question_number": 3,
+    "question": "The widespread public shock at the news of the guilty verdict was caused partly by news stories that had acquittal.",
+    "options": {
+      "A": "sensational ... condemned",
+      "B": "buried ... urged",
+      "C": "impartial ... mentioned",
+      "D": "biased ... predicted",
+      "E": "local ... denounced"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 158,
+    "test": 12,
+    "section": 1,
+    "question_number": 4,
+    "question": "The idealized paintings of nature produced in the eighteenth century are evidence that the medieval natural settings had been and that the outdoors now could be enjoyed without trepidation.",
+    "options": {
+      "A": "fear of ... exorcised",
+      "B": "concerns about ... regained",
+      "C": "affection for ... surmounted",
+      "D": "disinterest in ... alleviated",
+      "E": "enthusiasm for ... confronted 45"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 159,
+    "test": 12,
+    "section": 1,
+    "question_number": 5,
+    "question": "Some paleontologists debate whether the diversity of species has since the Cambrian period, or whether imperfections in the fossil record only suggest greater diversity today, while in actuality there has been either or decreased diversity.",
+    "options": {
+      "A": "changed ... escalation",
+      "B": "increased ... stasis",
+      "C": "expanded ... discontinuity",
+      "D": "declined ... reduction",
+      "E": "improved ... deviation"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 160,
+    "test": 12,
+    "section": 1,
+    "question_number": 6,
+    "question": "Manipulating laboratory tissue cultures with hormones is one thing; using hormones to treat human beings, however, is contingent on whether hormones that in the laboratory can affect organisms, and in predictable ways.",
+    "options": {
+      "A": "develop ... similar",
+      "B": "succeed ... simple",
+      "C": "fail ... cellular",
+      "D": "work ... whole",
+      "E": "reproduce ... unknown"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 161,
+    "test": 12,
+    "section": 1,
+    "question_number": 7,
+    "question": "The astronomer and feminist Maria Mitchell\u2019s own prodigious activity and the vigor of the Association for the Advancement of Women during the 1870\u2019s any assertion that feminism was in that period.",
+    "options": {
+      "A": "exclude ... thriving",
+      "B": "contradict ... prospering",
+      "C": "pervade ... remote",
+      "D": "buttress ... dormant",
+      "E": "belie ... quiescent CDDAB DE 46 12-2"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 162,
+    "test": 12,
+    "section": 2,
+    "question_number": 1,
+    "question": "Only by ignoring decades of mismanagement and inefficiency could investors conclude that a fresh infusion of cash would provide anything more than a solution to the company\u2019s financial woes.",
+    "options": {
+      "A": "fair",
+      "B": "temporary",
+      "C": "genuine",
+      "D": "realistic",
+      "E": "complete"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 163,
+    "test": 12,
+    "section": 2,
+    "question_number": 2,
+    "question": "Although the discovery of antibiotics led to great advances in clinical practice, it did not represent a bacterial illness, for there are some bacteria that cannot be treated with antibiotics.",
+    "options": {
+      "A": "breakthrough in ... consistently",
+      "B": "panacea for ... effectively",
+      "C": "neglect of ... efficiently",
+      "D": "reexamination of ... conventionally",
+      "E": "resurgence of ... entirely"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 164,
+    "test": 12,
+    "section": 2,
+    "question_number": 3,
+    "question": "A misconception frequently held by novice writers is that sentence structure mirrors thought: the more convoluted the structure, the more the ideas.",
+    "options": {
+      "A": "complicated",
+      "B": "inconsequential",
+      "C": "elementary",
+      "D": "fanciful",
+      "E": "blatant"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 165,
+    "test": 12,
+    "section": 2,
+    "question_number": 4,
+    "question": "Jones was unable to recognize the contradictions in his attitudes that were obvious to everyone else; even the hint of an untruth was to him, but he serious trouble by always cheating on his taxes.",
+    "options": {
+      "A": "acceptable ... risked",
+      "B": "exciting ... averted",
+      "C": "repugnant ... courted",
+      "D": "anathema ... evaded",
+      "E": "tempting ... hazarded 47"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 166,
+    "test": 12,
+    "section": 2,
+    "question_number": 5,
+    "question": "Even though the general\u2019s carefully qualified public statement could hardly be , some people took it.",
+    "options": {
+      "A": "respected ... liberties with",
+      "B": "inoffensive ... umbrage at",
+      "C": "faulted ... exception to",
+      "D": "credited ... potshots at",
+      "E": "dismissed ... interest in"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 167,
+    "test": 12,
+    "section": 2,
+    "question_number": 6,
+    "question": "Though feminist in its implications, Yvonne Rainer\u2019s 1974 film involvement in feminist politics.",
+    "options": {
+      "A": "preserved",
+      "B": "portrayed",
+      "C": "encouraged",
+      "D": "renewed",
+      "E": "antedated"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 168,
+    "test": 12,
+    "section": 2,
+    "question_number": 7,
+    "question": "the filmmaker\u2019s active The chances that a species will are reduced if any vital function is restricted to a single kind of organ; by itself possesses an enormous survival advantage.",
+    "options": {
+      "A": "degenerate ... complexity",
+      "B": "expire ... size",
+      "C": "disappear ... variety",
+      "D": "flourish ... symmetry",
+      "E": "persist ... redundancy BBACC EE 48 13-1"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 169,
+    "test": 13,
+    "section": 1,
+    "question_number": 1,
+    "question": "The availability of oxygen is an essential for animal life, while carbon dioxide is equally for plant life.",
+    "options": {
+      "A": "choice ... optional",
+      "B": "duplication ... selective",
+      "C": "conversion ... exchangeable",
+      "D": "condition ... necessary",
+      "E": "luxury ... harmful"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 170,
+    "test": 13,
+    "section": 1,
+    "question_number": 2,
+    "question": "Prudery actually draws attention to the vice it is supposed to speech or prohibits sight what is hidden.",
+    "options": {
+      "A": "condemn ... distorts",
+      "B": "monitor ... signals",
+      "C": "repress ... dramatizes",
+      "D": "obviate ... fosters",
+      "E": "divulge ... conceals"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 171,
+    "test": 13,
+    "section": 1,
+    "question_number": 3,
+    "question": "After thirty years of television, people have become \u201cspeed watchers\u201d lingers, the interest of the audience",
+    "options": {
+      "A": "broadens",
+      "B": "begins",
+      "C": "varies",
+      "D": "flags",
+      "E": "clears"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 172,
+    "test": 13,
+    "section": 1,
+    "question_number": 4,
+    "question": "; the very act that forbids ; consequently, if the camera Compared mathematically to smoking and driving, almost everything else seems relatively risk-free almost nothing seems worth regulating.",
+    "options": {
+      "A": "yet",
+      "B": "since",
+      "C": "so",
+      "D": "even though",
+      "E": "as long as 49"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 173,
+    "test": 13,
+    "section": 1,
+    "question_number": 5,
+    "question": "Ironically, Carver\u2019s precision in sketching lives on the edge of despair ensures that his stories will sometimes be read too narrowly, much as Dickens\u2019 social-reformer role once caused his broader concems to be",
+    "options": {
+      "A": "ignored",
+      "B": "reinforced",
+      "C": "contradicted",
+      "D": "diminished",
+      "E": "diversified"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 174,
+    "test": 13,
+    "section": 1,
+    "question_number": 6,
+    "question": "The demise of the rigorous academic curriculum in high school resulted, in part, from the progressive rhetoric that the study of subjects previously thought as part of school learning.",
+    "options": {
+      "A": "advocated ... necessary",
+      "B": "enhanced ... indispensable",
+      "C": "restricted ... impractical",
+      "D": "undermined ... popular",
+      "E": "sanctioned ... inappropriate"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 175,
+    "test": 13,
+    "section": 1,
+    "question_number": 7,
+    "question": "While some see in practical jokes a wish for mastery in miniature over a world that seems very , others believe that the jokes\u2019 purpose is to disrupt, by reducing all transactions to",
+    "options": {
+      "A": "dubious ... confusion",
+      "B": "disorderly ... symmetry",
+      "C": "harmonious ... dissonance",
+      "D": "unruly ... chaos",
+      "E": "turbulent ... uniformity DCDCA ED 50 13-2"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 176,
+    "test": 13,
+    "section": 2,
+    "question_number": 1,
+    "question": "Aspartame, a new artificial sugar substitute, is only replacement for saccharin because, unlike saccharin, it breaks down and loses its sweetening characteristics at high temperatures, making it for baking.",
+    "options": {
+      "A": "an interim ... ideal",
+      "B": "an apparent ... excellent",
+      "C": "a potential .. versatile",
+      "D": "a significant ... problematic",
+      "E": "a partial ... unsuitable"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 177,
+    "test": 13,
+    "section": 2,
+    "question_number": 2,
+    "question": "Trapped thousands of years ago in Antarctic ice, recently discovered air bubbles are time capsules filled with information for scientists who chart the history of the atmosphere.",
+    "options": {
+      "A": "inconsequential",
+      "B": "broken",
+      "C": "veritable",
+      "D": "resplendent",
+      "E": "impenetrable"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 178,
+    "test": 13,
+    "section": 2,
+    "question_number": 3,
+    "question": "In the days before the mass marketing of books, censorship was source of ; which helped the sale of the book and inspired Ralph Waldo Emerson to remark: \u201cEvery burned book enlightens the world\u201d.",
+    "options": {
+      "A": "a respected ... opinion",
+      "B": "a constant ... guidance",
+      "C": "a prime ... publicity",
+      "D": "an unnoticed ... opposition",
+      "E": "an unpromising ... criticism"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 179,
+    "test": 13,
+    "section": 2,
+    "question_number": 4,
+    "question": "It was not only the geologists that of earlier development of the revolutionary idea that the Earth\u2019s continents were moving plates; classical physicists, who could not then explain the mechanism, had declared continental movement impossible.",
+    "options": {
+      "A": "indecisiveness ... challenged",
+      "B": "radicalism ... deterred",
+      "C": "conservatism ... hindered",
+      "D": "assumptions ... hastened",
+      "E": "resistance ... mandated 51"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 180,
+    "test": 13,
+    "section": 2,
+    "question_number": 5,
+    "question": "Although often extremely critical of the medical profession as a whole, people are rarely willing to treat their personal doctors with equal",
+    "options": {
+      "A": "impetuosity",
+      "B": "sarcasm",
+      "C": "mockery",
+      "D": "contempt",
+      "E": "condescension"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 181,
+    "test": 13,
+    "section": 2,
+    "question_number": 6,
+    "question": "Aalto, like other modernists, believed that form follows function; consequently, his furniture designs asserted the of human needs, and the furniture\u2019s form was human use.",
+    "options": {
+      "A": "universality ... refined by",
+      "B": "importance ... relegated to",
+      "C": "rationale ... emphasized by",
+      "D": "primacy ... determined by",
+      "E": "variability ... reflected in"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 182,
+    "test": 13,
+    "section": 2,
+    "question_number": 7,
+    "question": "A acceptance of contemporary forms of social behavior has misled a few into believing that values in conflict with the present age are for all practical purposes",
+    "options": {
+      "A": "casual ... reliable",
+      "B": "superficial ... trenchant",
+      "C": "complacent ... superseded",
+      "D": "cautious ... redemptive",
+      "E": "plaintive ... redundant ECCCD DC 52 14-1"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 183,
+    "test": 14,
+    "section": 1,
+    "question_number": 1,
+    "question": "Psychology has slowly evolved into an scientific discipline that now functions autonomously with the same privileges and responsibilities as other sciences.",
+    "options": {
+      "A": "independent",
+      "B": "unusual",
+      "C": "outmoded",
+      "D": "uncontrolled",
+      "E": "inactive"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 184,
+    "test": 14,
+    "section": 1,
+    "question_number": 2,
+    "question": "A major goal of law, to deter potential criminals by punishing wrongdoers, is not served when the penalty is so seldom invoked that it to bea threat.",
+    "options": {
+      "A": "tends ... serious",
+      "B": "appears ... real",
+      "C": "ceases ... credible",
+      "D": "fails ... deceptive",
+      "E": "seems ... coercive"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 185,
+    "test": 14,
+    "section": 1,
+    "question_number": 3,
+    "question": "When people are happy, they tend to give interpretations of events they witness: the eye of the beholder is by the emotions of the beholder.",
+    "options": {
+      "A": "charitable ... colored",
+      "B": "elaborate ... disquieted",
+      "C": "conscientious ... deceived",
+      "D": "vague ... sharpened",
+      "E": "coherent ... confused"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 186,
+    "test": 14,
+    "section": 1,
+    "question_number": 4,
+    "question": "Even those who disagreed with Carmen\u2019s views rarely faulted her for expressing them, for the positions she took were as as they were controversial.",
+    "options": {
+      "A": "complicated",
+      "B": "political",
+      "C": "subjective",
+      "D": "commonplace",
+      "E": "thoughtful 53"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 187,
+    "test": 14,
+    "section": 1,
+    "question_number": 5,
+    "question": "New research on technology and public policy focuses on how seemingly design features generally over looked in most analyses of public works projects or industrial machinery, actually social choices of profound significance.",
+    "options": {
+      "A": "insignificant ... mask",
+      "B": "inexpensive ... produce",
+      "C": "innovative ... represent",
+      "D": "ingenious ... permit",
+      "E": "inopportune ... hasten"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 188,
+    "test": 14,
+    "section": 1,
+    "question_number": 6,
+    "question": "Paradoxically, Robinson\u2019s excessive denials of the worth of early works of science fiction suggest that she has become quite them.",
+    "options": {
+      "A": "reflective about",
+      "B": "enamored of",
+      "C": "skeptical of",
+      "D": "encouraged by",
+      "E": "offended by"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 189,
+    "test": 14,
+    "section": 1,
+    "question_number": 7,
+    "question": "Cezanne\u2019s delicate watercolor sketches often served as or a subject, a way of gathering fuller knowledge before the artist\u2019s final engagement of the subject in an oil painting.",
+    "options": {
+      "A": "an abstraction",
+      "B": "an enhancement",
+      "C": "a synthesis",
+      "D": "a reconnaissance",
+      "E": "a transcription ACAEA BD 54 14-2"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 190,
+    "test": 14,
+    "section": 2,
+    "question_number": 1,
+    "question": "Though it would be to expect Barnard to have worked out all of the limitations of his experiment, he must be for his neglect of quantitative analysis.",
+    "options": {
+      "A": "unjust ... pardoned",
+      "B": "impudent ... dismissed",
+      "C": "unrealistic ... criticized",
+      "D": "pointless ... examined",
+      "E": "inexcusable ... recognized"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 191,
+    "test": 14,
+    "section": 2,
+    "question_number": 2,
+    "question": "The hierarchy of medical occupations is in many ways a system; its strata remain and the practitioners in them have very little vertical mobility.",
+    "options": {
+      "A": "health ... skilled",
+      "B": "delivery ... basic",
+      "C": "regimental ... flexible",
+      "D": "training ... inferior",
+      "E": "caste ... intact"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 192,
+    "test": 14,
+    "section": 2,
+    "question_number": 3,
+    "question": "Noting the murder victim\u2019s flaccid musculature and pear-like figure, she deduced that the unfortunate fellow had earned his living in some occupation.",
+    "options": {
+      "A": "treacherous",
+      "B": "prestigious",
+      "C": "ill-paying",
+      "D": "illegitimate",
+      "E": "sedentary"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 193,
+    "test": 14,
+    "section": 2,
+    "question_number": 4,
+    "question": "In Germany her startling powers as a novelist are widely , but she is almost unknown in the English speaking world because of the difficulties of her eccentric prose.",
+    "options": {
+      "A": "ignored ... editing",
+      "B": "admired ... translating",
+      "C": "espoused ... revealing",
+      "D": "obscured ... comprehending",
+      "E": "dispersed ... transcribing 55"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 194,
+    "test": 14,
+    "section": 2,
+    "question_number": 5,
+    "question": "Liberty is not easy, but far better to be an fox, hungry and threatened on its hill, than a canary, safe and secure in its cage.",
+    "options": {
+      "A": "unfriendly ... fragile",
+      "B": "aging ... young",
+      "C": "angry ... content",
+      "D": "imperious ... lethargic",
+      "E": "unfettered ... well-fed"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 195,
+    "test": 14,
+    "section": 2,
+    "question_number": 6,
+    "question": "Remelting old metal cans rather than making primary aluminum from bauxite ore shipped from overseas saves producers millions of dollars in and production costs.",
+    "options": {
+      "A": "distribution",
+      "B": "salvage",
+      "C": "storage",
+      "D": "procurement",
+      "E": "research"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 196,
+    "test": 14,
+    "section": 2,
+    "question_number": 7,
+    "question": "Johnson never to ignore the standards of decent conduct mandated by company policy if compliance with instructions from his superiors enabled him to do so, whatever the effects on his subordinates.",
+    "options": {
+      "A": "deigned ... tacit",
+      "B": "attempted ... halfhearted",
+      "C": "intended ... direct",
+      "D": "scrupled ... literal",
+      "E": "wished ... feigned CEEBE DD 56 15-1"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 197,
+    "test": 15,
+    "section": 1,
+    "question_number": 1,
+    "question": "Despite the apparently bewildering complexity of this procedure, the underlying is quite",
+    "options": {
+      "A": "simplicity ... calculated",
+      "B": "principle ... elementary",
+      "C": "confusion ... imaginary",
+      "D": "purpose ... effective",
+      "E": "theory ... modern"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 198,
+    "test": 15,
+    "section": 1,
+    "question_number": 2,
+    "question": "In television programming, a later viewing time often a more audience and, therefore, more challenging subjects and themes.",
+    "options": {
+      "A": "requires ... critical",
+      "B": "evinces ... affluent",
+      "C": "implies ... mature",
+      "D": "eliminates ... realistic",
+      "E": "invites ... general"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 199,
+    "test": 15,
+    "section": 1,
+    "question_number": 3,
+    "question": "The cultivation of the emotion of natsukashii, interpretable as \u201cpleasant sorrow,\u201d brings Japanese to Kyoto in the spring, not to the cherry blossoms in full bloom but to the fading, falling flowers.",
+    "options": {
+      "A": "mourn ... exclaim over",
+      "B": "honor ... protect",
+      "C": "describe ... rejoice over",
+      "D": "arrange ... preserve",
+      "E": "savor ... grieve over"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 200,
+    "test": 15,
+    "section": 1,
+    "question_number": 4,
+    "question": "Adam Smith\u2019s Wealth of Nations (1776) is still worth reading, more to appreciate the current of Smith\u2019s valid contributions to economics than to see those contributions as the of present-day economics.",
+    "options": {
+      "A": "disregard ... outgrowths",
+      "B": "reaffirmation ... concerns",
+      "C": "relevance ... precursors",
+      "D": "acceptance ... byproducts",
+      "E": "importance ... vestiges 57"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 201,
+    "test": 15,
+    "section": 1,
+    "question_number": 5,
+    "question": "At several points in his discussion, graves, in effect, evidence when it does not support his argument, tailoring it to his needs.",
+    "options": {
+      "A": "addresses",
+      "B": "creates",
+      "C": "alters",
+      "D": "suppresses",
+      "E": "substitutes"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 202,
+    "test": 15,
+    "section": 1,
+    "question_number": 6,
+    "question": "Regardless of what theories of politics may propound, there is nothing that requires daily politics to be clear, thorough, and consistent? Nothing, that is, that requires reality to conform to theory.",
+    "options": {
+      "A": "vague",
+      "B": "assertive",
+      "C": "casual",
+      "D": "vicious",
+      "E": "tidy"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 203,
+    "test": 15,
+    "section": 1,
+    "question_number": 7,
+    "question": "Exposure to sustained noise has been claimed to blood pressure regulation in human beings and, particularly, to increase hypertension, even though some researchers have obtained inconclusive results that the relationship.",
+    "options": {
+      "A": "sharpen ... conflate",
+      "B": "increase ... diminish",
+      "C": "aggravate ... buttress",
+      "D": "disrupt ... neutralize",
+      "E": "impair ... obscure BCECC EE 58 15-2"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 204,
+    "test": 15,
+    "section": 2,
+    "question_number": 1,
+    "question": "After a slow sales start early in the year, mobile homes have been gaining favor as to increasingly expensive conventional housing.",
+    "options": {
+      "A": "reaction",
+      "B": "an addition",
+      "C": "an introduction",
+      "D": "an alternative",
+      "E": "a challenge"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 205,
+    "test": 15,
+    "section": 2,
+    "question_number": 2,
+    "question": "Just as such apparently basic things as rocks, clouds, and clams are, in fact, intricately structured entities, so the self, too, is not an \u201celementary particle,\u201d but is construction.",
+    "options": {
+      "A": "a complicated",
+      "B": "a convoluted",
+      "C": "a distorted",
+      "D": "an amorphous",
+      "E": "an illusory"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 206,
+    "test": 15,
+    "section": 2,
+    "question_number": 3,
+    "question": "Considering how long she had yearned to see Italy, her first reaction was curiously",
+    "options": {
+      "A": "meditative",
+      "B": "tepid",
+      "C": "categorical",
+      "D": "unoriginal",
+      "E": "insightful"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 207,
+    "test": 15,
+    "section": 2,
+    "question_number": 4,
+    "question": "The successful of an archaeological site requires scientific knowledge as well as cultural",
+    "options": {
+      "A": "evolution ... awareness",
+      "B": "revelation ... depth",
+      "C": "reconstruction ... sensitivity",
+      "D": "analysis ... aesthetics",
+      "E": "synthesis ... understanding 59"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 208,
+    "test": 15,
+    "section": 2,
+    "question_number": 5,
+    "question": "As painted by Constable, the scene is not one of bucolic ; rather it shows a striking emotional and intellectual",
+    "options": {
+      "A": "intensity ... boredom",
+      "B": "complacence ... detachment",
+      "C": "serenity ... tension",
+      "D": "vitality ... excitement",
+      "E": "nostalgia ... placidity"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 209,
+    "test": 15,
+    "section": 2,
+    "question_number": 6,
+    "question": "Our times seem especially bad ideas, probably because in throwing off the shackles of tradition, we have ended up being quite untested theories and untried remedies.",
+    "options": {
+      "A": "impervious ... tolerant of",
+      "B": "hostile ... dependent on",
+      "C": "hospitable ... vulnerable to",
+      "D": "prone ... wary of",
+      "E": "indifferent ... devoid of"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 210,
+    "test": 15,
+    "section": 2,
+    "question_number": 7,
+    "question": "Although he attempted repeatedly to her of her conviction of his insincerity, he was not successful; she remained in her judgment.",
+    "options": {
+      "A": "remind ... forceful",
+      "B": "convince ... unfeigned",
+      "C": "exorcise ... indulgent",
+      "D": "disabuse ... adamant",
+      "E": "free ... unsure DABCC CD 60 16-1"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 211,
+    "test": 16,
+    "section": 1,
+    "question_number": 1,
+    "question": "Dreams are in and of themselves, but when combined with other data, they can tell us much about the dreamer.",
+    "options": {
+      "A": "uninformative",
+      "B": "startling",
+      "C": "harmless",
+      "D": "unregulated",
+      "E": "uncontrollable"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 212,
+    "test": 16,
+    "section": 1,
+    "question_number": 2,
+    "question": "The Muses are deities: they avenge themselves without mercy on those who weary of their charms.",
+    "options": {
+      "A": "rueful",
+      "B": "ingenuous",
+      "C": "solicitous",
+      "D": "vindictive",
+      "E": "dispassionate"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 213,
+    "test": 16,
+    "section": 1,
+    "question_number": 3,
+    "question": "Without the psychiatrist\u2019s promise of confidentiality, trust is and the patient\u2019s communication limited; even though confidentiality can thus be seen to be precious in therapy, moral responsibility sometimes requires a willingness to it.",
+    "options": {
+      "A": "implicit ... extend",
+      "B": "ambiguous ... apply",
+      "C": "prevented ... uphold",
+      "D": "assumed ... examine",
+      "E": "impaired ... sacrifice"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 214,
+    "test": 16,
+    "section": 1,
+    "question_number": 4,
+    "question": "Having fully embraced the belief that government by persuasion is preferable to government by , the leaders of the movement have recently most of their previous statements supporting totalitarianism.",
+    "options": {
+      "A": "intimidation issued",
+      "B": "participation moderated",
+      "C": "proclamation codified",
+      "D": "demonstration deliberated",
+      "E": "coercion repudiated 61"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 215,
+    "test": 16,
+    "section": 1,
+    "question_number": 5,
+    "question": "The powers and satisfactions of primeval people, though few and meager, were their few and simple desires.",
+    "options": {
+      "A": "simultaneous with",
+      "B": "commensurate with",
+      "C": "substantiated by",
+      "D": "circumscribed by",
+      "E": "ruined by"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 216,
+    "test": 16,
+    "section": 1,
+    "question_number": 6,
+    "question": "Some scientists argue that carbon compounds play such a central role in life on Earth because of the possibility of resulting from the carbon atom\u2019s ability to form an unending series of different molecules.",
+    "options": {
+      "A": "deviation",
+      "B": "stability",
+      "C": "reproduction",
+      "D": "variety",
+      "E": "invigoration"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 217,
+    "test": 16,
+    "section": 1,
+    "question_number": 7,
+    "question": "Whereas the art critic Vasari saw the painting entitled the Mona Lisa as an original and wonderful feat, the reproduction of a natural object, the aesthetes saw it as that required deciphering.",
+    "options": {
+      "A": "collaborative ... an aberration",
+      "B": "historical ... a symbol",
+      "C": "technical ... a hieroglyph",
+      "D": "mechanical ... an imitation",
+      "E": "visual ... an illusion ADEEB DC 62 16-2"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 218,
+    "test": 16,
+    "section": 2,
+    "question_number": 1,
+    "question": "As late as 1891 a speaker assured his audience that since profitable farming was the result of natural ability rather than , an education in agriculture was",
+    "options": {
+      "A": "instruction ... vital",
+      "B": "effort ... difficult",
+      "C": "learning ... useless",
+      "D": "science ... intellectual",
+      "E": "luck ... senseless"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 219,
+    "test": 16,
+    "section": 2,
+    "question_number": 2,
+    "question": "In spite of the nature of Scotland\u2019s terrain, its main roads are surprisingly free from severe .",
+    "options": {
+      "A": "rocky ... weather",
+      "B": "mountainous ... grades",
+      "C": "uncharted ... flooding",
+      "D": "unpredictable ... damage",
+      "E": "landlocked ... slipperiness"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 220,
+    "test": 16,
+    "section": 2,
+    "question_number": 3,
+    "question": "Walpole\u2019s art collection was huge and fascinating, and his novel The Castle of Otranto was never out of print; none of this mattered to the Victorians, who him as, at best,",
+    "options": {
+      "A": "dismissed ... insignificant",
+      "B": "judged ... worthwhile",
+      "C": "revered ... talented",
+      "D": "reviled ... meager",
+      "E": "taunted ... dangerous"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 221,
+    "test": 16,
+    "section": 2,
+    "question_number": 4,
+    "question": "Since the author frequently other scholars, his objection to disputes is not only irrelevant but also",
+    "options": {
+      "A": "supports ... overbearing",
+      "B": "provokes ... frightening",
+      "C": "quotes ... curious",
+      "D": "ignores ... peevish",
+      "E": "attacks ... surprising 63"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 222,
+    "test": 16,
+    "section": 2,
+    "question_number": 5,
+    "question": "Longdale and Stern discovered that mitochondria and chloroplasts a long, identifiable sequence of DNA; such a coincidence could be only by the transfer of DNA between the two systems.",
+    "options": {
+      "A": "manufacture ... accomplished",
+      "B": "reveal ... repeated",
+      "C": "exhibit ... determined",
+      "D": "share ... explained",
+      "E": "maintain ... contradicted"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 223,
+    "test": 16,
+    "section": 2,
+    "question_number": 6,
+    "question": "Until the current warming trend exceeds the range of normal climatic fluctuations, there will be, among scientists, considerable the possibility that increasing levels of atmospheric CO2 can cause long-term warming effects.",
+    "options": {
+      "A": "interest in",
+      "B": "uncertainty about",
+      "C": "enthusiasm for",
+      "D": "worry about",
+      "E": "experimentation on"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 224,
+    "test": 16,
+    "section": 2,
+    "question_number": 7,
+    "question": "Without seeming unworldly, William James appeared wholly removed from the of society, the conventionality of academe.",
+    "options": {
+      "A": "ethos",
+      "B": "idealism",
+      "C": "romance",
+      "D": "paradoxes",
+      "E": "commonplaces CBAED BE 64 17-1"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 225,
+    "test": 17,
+    "section": 1,
+    "question_number": 1,
+    "question": "Created to serve as perfectly as possible their workaday , the wooden storage boxes made in America\u2019s Shaker communities are now for their beauty.",
+    "options": {
+      "A": "environment ... accepted",
+      "B": "owners ... employed",
+      "C": "function ... valued",
+      "D": "reality ... transformed",
+      "E": "image ... seen"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 226,
+    "test": 17,
+    "section": 1,
+    "question_number": 2,
+    "question": "In order to her theory that the reactions are , the scientist conducted many experiments, all of which showed that the heat of the first reaction is more than twice that of the second.",
+    "options": {
+      "A": "support ... different",
+      "B": "comprehend ... constant",
+      "C": "evaluate ... concentrated",
+      "D": "capture ... valuable",
+      "E": "demonstrate ... problematic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 227,
+    "test": 17,
+    "section": 1,
+    "question_number": 3,
+    "question": "The sheer bulk of data from the mass media seems to overpower us and drive us to accounts for an easily and readily digestible portion of news.",
+    "options": {
+      "A": "insular",
+      "B": "investigative",
+      "C": "synoptic",
+      "D": "subjective",
+      "E": "sensational"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 228,
+    "test": 17,
+    "section": 1,
+    "question_number": 4,
+    "question": "William James lacked the usual death; writing to his dying father, he spoke without about the old man\u2019s impending death.",
+    "options": {
+      "A": "longing for ... regret",
+      "B": "awe of ... inhibition",
+      "C": "curiosity about ... rancor",
+      "D": "apprehension of ... eloquence",
+      "E": "anticipation of ... commiseration 65"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 229,
+    "test": 17,
+    "section": 1,
+    "question_number": 5,
+    "question": "Current data suggest that, although states between fear and aggression exist, fear and aggression are as distinct physiologically as they are psychologically.",
+    "options": {
+      "A": "simultaneous",
+      "B": "serious",
+      "C": "exceptional",
+      "D": "partial",
+      "E": "transitional"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 230,
+    "test": 17,
+    "section": 1,
+    "question_number": 6,
+    "question": "It is ironic that a critic of such overwhelming vanity now suffers from a measure of the oblivion to which he was forever others, in the end, all his has only worked against him.",
+    "options": {
+      "A": "dedicating ... self-procession",
+      "B": "leading ... self-righteousness",
+      "C": "consigning ... self-adulation",
+      "D": "relegating ... self-sacrifice",
+      "E": "condemning ... self-analysis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 231,
+    "test": 17,
+    "section": 1,
+    "question_number": 7,
+    "question": "Famous among job seekers for its , the company, quite apart from generous salaries, bestowed on its executives annual bonuses and such as low-interest home mortgages and company cars.",
+    "options": {
+      "A": "magnanimity ... reparations",
+      "B": "inventiveness ... benefits",
+      "C": "largesse ... perquisites",
+      "D": "discernment ... prerogatives",
+      "E": "altruism ... credits CACBE CC 66 17-2"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 232,
+    "test": 17,
+    "section": 2,
+    "question_number": 1,
+    "question": "There are no solitary, free-living creatures; every form of life is other forms.",
+    "options": {
+      "A": "segregated from",
+      "B": "parallel to",
+      "C": "dependent on",
+      "D": "overshadowed by",
+      "E": "mimicked by"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 233,
+    "test": 17,
+    "section": 2,
+    "question_number": 2,
+    "question": "The sale of Alaska was not so much an American coup as a matter of for an imperial Russia that was short of cash and unable to its own continental coastline.",
+    "options": {
+      "A": "negligence ... fortify",
+      "B": "custom ... maintain",
+      "C": "convenience ... stabilize",
+      "D": "expediency ... defend",
+      "E": "exigency ... reinforce"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 234,
+    "test": 17,
+    "section": 2,
+    "question_number": 3,
+    "question": "Despite assorted effusions to the contrary, there is no necessary link between scientific skill and humanism, and, quite possibly, there may be something of a between them.",
+    "options": {
+      "A": "generality",
+      "B": "fusion",
+      "C": "congruity",
+      "D": "dichotomy",
+      "E": "reciprocity"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 235,
+    "test": 17,
+    "section": 2,
+    "question_number": 4,
+    "question": "A common argument claims that in folk art, the artist\u2019s subordination of technical mastery to intense feeling the direct communication of emotion to the viewer.",
+    "options": {
+      "A": "facilitates",
+      "B": "averts",
+      "C": "neutralizes",
+      "D": "implies",
+      "E": "represses 67"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 236,
+    "test": 17,
+    "section": 2,
+    "question_number": 5,
+    "question": "While not completely nonplussed by the unusually caustic responses from members of the audience, the speaker was nonetheless visibly by their lively criticism.",
+    "options": {
+      "A": "humiliated",
+      "B": "discomfited",
+      "C": "deluded",
+      "D": "disgraced",
+      "E": "tantalized"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 237,
+    "test": 17,
+    "section": 2,
+    "question_number": 6,
+    "question": "In eighth-century Japan, people who wasteland were rewarded with official ranks as part of an effort to overcome the shortage of fields.",
+    "options": {
+      "A": "conserved ... forested",
+      "B": "reclaimed ... arable",
+      "C": "cultivated ... domestic",
+      "D": "irrigated ... accessible",
+      "E": "located ... desirable"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 238,
+    "test": 17,
+    "section": 2,
+    "question_number": 7,
+    "question": "If duty is the natural of one\u2018s the course of future events, then people who are powerful have duty placed on them whether they like it or not.",
+    "options": {
+      "A": "correlate ... understanding of",
+      "B": "outgrowth ... control over",
+      "C": "determinant ... involvement in",
+      "D": "mitigant ... preoccupation with",
+      "E": "arbiter ... responsibility for CDDAB BB 68 18-1"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 239,
+    "test": 18,
+    "section": 1,
+    "question_number": 1,
+    "question": "Physicists rejected the innovative experimental technique because, although it some problems, it also produced new",
+    "options": {
+      "A": "clarified ... data",
+      "B": "eased ... interpretations",
+      "C": "resolved ... complications",
+      "D": "caused ... hypotheses",
+      "E": "revealed ... inconsistencies"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 240,
+    "test": 18,
+    "section": 1,
+    "question_number": 2,
+    "question": "During a period of protracted illness, the sick can become infirm, both the strength to work and many of the specific skills they once possessed.",
+    "options": {
+      "A": "regaining",
+      "B": "denying",
+      "C": "pursuing",
+      "D": "insuring",
+      "E": "losing"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 241,
+    "test": 18,
+    "section": 1,
+    "question_number": 3,
+    "question": "The pressure of population on available resources is the key to understanding history; consequently, any historical writing that takes no cognizance of facts is flawed.",
+    "options": {
+      "A": "demographic ... intrinsically",
+      "B": "ecological ... marginally",
+      "C": "cultural ... substantively",
+      "D": "psychological ... philosophically",
+      "E": "political ... demonstratively"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 242,
+    "test": 18,
+    "section": 1,
+    "question_number": 4,
+    "question": "It is puzzling to observe that Jones\u2019s novel has recently been criticized for its structure, since commentators have traditionally argued that its most obvious is its relentlessly rigid, indeed schematic, framework.",
+    "options": {
+      "A": "attention to ... preoccupation",
+      "B": "speculation about ... characteristic",
+      "C": "parody of ... disparity",
+      "D": "violation of ... contradiction",
+      "E": "lack of ... flaw 69"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 243,
+    "test": 18,
+    "section": 1,
+    "question_number": 5,
+    "question": "It comes as no surprise that societies have codes of behavior; the character of the codes, on the other hand, can often be",
+    "options": {
+      "A": "predictable",
+      "B": "unexpected",
+      "C": "admirable",
+      "D": "explicit",
+      "E": "confusing"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 244,
+    "test": 18,
+    "section": 1,
+    "question_number": 6,
+    "question": "The characterization of historical analysis as a form of fiction is not likely to be received by either historians or literary critics, who agree that history and fiction deal with orders of experience.",
+    "options": {
+      "A": "quietly ... significant",
+      "B": "enthusiastically ... shifting",
+      "C": "passively ... unusual",
+      "D": "sympathetically ... distinct",
+      "E": "contentiously ... realistic"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 245,
+    "test": 18,
+    "section": 1,
+    "question_number": 7,
+    "question": "For some time now, has been presumed not to exist: the cynical conviction that everybody has an angle is considered wisdom.",
+    "options": {
+      "A": "rationality",
+      "B": "flexibility",
+      "C": "diffidence",
+      "D": "disinterestedness",
+      "E": "insincerity CEAEB DD 70 18-2"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 246,
+    "test": 18,
+    "section": 2,
+    "question_number": 1,
+    "question": "The of mass literacy coincided with the first industrial revolution; in turn, the new expansion in literacy, as well as cheaper printing, helped to nurture the of popular literature.",
+    "options": {
+      "A": "building ... mistrust",
+      "B": "reappearance ... display",
+      "C": "receipt ... source",
+      "D": "selection ... influence",
+      "E": "emergence ... rise"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 247,
+    "test": 18,
+    "section": 2,
+    "question_number": 2,
+    "question": "Although ancient tools were preserved, enough have survived to allow us to demonstrate an occasionally interrupted but generally progress through prehistory.",
+    "options": {
+      "A": "partially ... noticeable",
+      "B": "superficially ... necessary",
+      "C": "unwittingly ... documented",
+      "D": "rarely ... continual",
+      "E": "needlessly ... incessant"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 248,
+    "test": 18,
+    "section": 2,
+    "question_number": 3,
+    "question": "In parts of the Arctic, the land grades into the land fast ice so that you can walk off the coast and not know you are over the hidden sea.",
+    "options": {
+      "A": "permanently",
+      "B": "imperceptibly",
+      "C": "irregularly",
+      "D": "precariously",
+      "E": "slightly"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 249,
+    "test": 18,
+    "section": 2,
+    "question_number": 4,
+    "question": "Kagan maintains that an infant\u2019s reactions to its first stressful experiences are part of a natural process of development, not harbingers of childhood unhappiness or signs of adolescent anxiety.",
+    "options": {
+      "A": "prophetic",
+      "B": "normal",
+      "C": "monotonous",
+      "D": "virtual",
+      "E": "typical 71"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 250,
+    "test": 18,
+    "section": 2,
+    "question_number": 5,
+    "question": "An investigation that is can occasionally yield new facts, even notable ones, but typically the appearance of such facts is the result of a search in a definite direction.",
+    "options": {
+      "A": "timely",
+      "B": "unguided",
+      "C": "consistent",
+      "D": "uncomplicated",
+      "E": "subjective"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 251,
+    "test": 18,
+    "section": 2,
+    "question_number": 6,
+    "question": "Like many eighteenth-century scholars who lived by cultivating those in power, Winckelmann neglected to neutralize, by some gesture of comradeship, the resentment his peers were bound to feel because of his the high and mighty.",
+    "options": {
+      "A": "quixotic ... intrigue with",
+      "B": "enigmatic ... familiarity with",
+      "C": "propitiatory ... involvement with",
+      "D": "salutary ... questioning of",
+      "E": "unfeigned ... sympathy for"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 252,
+    "test": 18,
+    "section": 2,
+    "question_number": 7,
+    "question": "Ina society that worships efficiency, it is difficult for a sensitive and idealistic person to make the kinds of decisions that alone spell success as it is defined by such a society.",
+    "options": {
+      "A": "bureaucratic ... edifying",
+      "B": "pragmatic ... hardheaded",
+      "C": "rational ... well-intentioned",
+      "D": "competitive ... evenhanded",
+      "E": "modern ... dysfunctional EDBAB CB 72 19-1"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 253,
+    "test": 19,
+    "section": 1,
+    "question_number": 1,
+    "question": "Because they had expected the spacecraft Voyager 2 to be able to gather data only about the planets Jupiter and Saturn, scientists were the wealth of information it sent back from Neptune twelve years after leaving Earth.",
+    "options": {
+      "A": "disappointed in",
+      "B": "concerned about",
+      "C": "confident in",
+      "D": "elated by",
+      "E": "anxious for"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 254,
+    "test": 19,
+    "section": 1,
+    "question_number": 2,
+    "question": "Wearing the latest fashions was exclusively the of the wealthy until the 1850\u2019s, when mass production, aggressive entrepreneurs, and the availability of the sewing machine made them the middle class.",
+    "options": {
+      "A": "aspiration ... disagreeable to",
+      "B": "vexation ... superfluous for",
+      "C": "bane ... profitable to",
+      "D": "prerogative ... accessible to",
+      "E": "obligation ... popular with"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 255,
+    "test": 19,
+    "section": 1,
+    "question_number": 3,
+    "question": "Linguists have now confirmed what experienced users of ASL\u2014American Sign Language\u2014have always implicitly known: ASL is a grammatically language in that it is capable of expressing every possible syntactic relation.",
+    "options": {
+      "A": "limited",
+      "B": "economical",
+      "C": "complete",
+      "D": "shifting",
+      "E": "abstract"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 256,
+    "test": 19,
+    "section": 1,
+    "question_number": 4,
+    "question": "He was regarded by his followers, as something of , not only because of his insistence on strict discipline, but also because of his adherence to formal details.",
+    "options": {
+      "A": "a martinet ... rigid",
+      "B": "an authority ... sporadic",
+      "C": "a tyrant ... reluctant",
+      "D": "a fraud ... conscientious",
+      "E": "an acolyte ... maniacal 73"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 257,
+    "test": 19,
+    "section": 1,
+    "question_number": 5,
+    "question": "The influence of the Timaeus among early philosophical thinkers was , if only because it was the sole dialogue in Europe for almost 1,000 years.",
+    "options": {
+      "A": "pervasive ... available",
+      "B": "inestimable ... suppressed",
+      "C": "unnoteworthy ... abridged",
+      "D": "underestimated ... studied",
+      "E": "circumscribed ... translated"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 258,
+    "test": 19,
+    "section": 1,
+    "question_number": 6,
+    "question": "The Gibsons were little given to in any form; not one of them was afraid of , of being and seeming unlike their neighbors.",
+    "options": {
+      "A": "humility ... absurdity",
+      "B": "excellence ... mediocrity",
+      "C": "anger ... confrontation",
+      "D": "conformism ... singularity",
+      "E": "ostentation ... eccentricity"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 259,
+    "test": 19,
+    "section": 1,
+    "question_number": 7,
+    "question": "Even after _against the of popular sovereignty were included, major figures in the humanistic disciplines remained skeptical about the proposal to extend suffrage to the masses.",
+    "options": {
+      "A": "recommendations ... continuation",
+      "B": "safeguards ... excesses",
+      "C": "arguments ... introduction",
+      "D": "provisions ... advantages",
+      "E": "laws ... creation DDCAA DB 74 19-2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 260,
+    "test": 19,
+    "section": 2,
+    "question_number": 1,
+    "question": "A recent survey shows that, while ninety-four percent of companies conducting management- training programs open them to women, women are only seventy-four percent of those programs.",
+    "options": {
+      "A": "protesting against",
+      "B": "participating in",
+      "C": "displeased by",
+      "D": "allowed in",
+      "E": "refused by"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 261,
+    "test": 19,
+    "section": 2,
+    "question_number": 2,
+    "question": "Thomas Paine, whose political writing was often flamboyant, was in private life a surprisingly man: he lived in rented rooms, ate little, and wore drab clothes.",
+    "options": {
+      "A": "simple",
+      "B": "controversial",
+      "C": "sordid",
+      "D": "comfortable",
+      "E": "discourteous"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 262,
+    "test": 19,
+    "section": 2,
+    "question_number": 3,
+    "question": "Their of loyalties is first to oneself, next to kin, then to fellow tribe members, and finally to compatriots.",
+    "options": {
+      "A": "merging",
+      "B": "hierarchy",
+      "C": "definition",
+      "D": "judgment",
+      "E": "cognizance"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 263,
+    "test": 19,
+    "section": 2,
+    "question_number": 4,
+    "question": "The belief that science destroys the arts appears to be supported by historical evidence that the arts have only when the sciences have been",
+    "options": {
+      "A": "declined ... attacked",
+      "B": "flourished ... neglected",
+      "C": "matured ... unconcerned",
+      "D": "succeeded ... developed",
+      "E": "floundered ... constrained 75"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 264,
+    "test": 19,
+    "section": 2,
+    "question_number": 5,
+    "question": "The action and characters in a melodrama can be so immediately that all observers can hiss the villain with an air of smug but enjoyable",
+    "options": {
+      "A": "spurned ... boredom",
+      "B": "forgotten ... condescension",
+      "C": "classified ... self-righteousness",
+      "D": "plausible ... guilt",
+      "E": "gripping ... skepticism"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 265,
+    "test": 19,
+    "section": 2,
+    "question_number": 6,
+    "question": "In the design of medical experiments, the need for assignment of treatments to patients must be the difficulty of persuading patients to participate in an experiment in which their treatment is decided by chance.",
+    "options": {
+      "A": "independent ... amended by",
+      "B": "competent ... emphasized by",
+      "C": "mechanical ... controlled by",
+      "D": "swift ... associated with",
+      "E": "random ... reconciled with"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 266,
+    "test": 19,
+    "section": 2,
+    "question_number": 7,
+    "question": "Though dealers insist that professional art dealers can make money in the art market, even an knowledge is not enough: the art world is so fickle that stock-market prices are by comparison.",
+    "options": {
+      "A": "amateur\u2019s ... sensible",
+      "B": "expert\u2019s ... erratic",
+      "C": "investor\u2019s ... booming",
+      "D": "insider\u2019s ... predictable",
+      "E": "artist\u2019s ... irrational BABBC ED 76 20-1"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 267,
+    "test": 20,
+    "section": 1,
+    "question_number": 1,
+    "question": "Although economists have traditionally considered the district to be solely an agricultural one, the of the inhabitants\u2019 occupations makes such a classification obsolete.",
+    "options": {
+      "A": "productivity",
+      "B": "diversity",
+      "C": "predictability",
+      "D": "profitability",
+      "E": "stability"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 268,
+    "test": 20,
+    "section": 1,
+    "question_number": 2,
+    "question": "The author of this book overlooks or minimizes some of the problems and shortcomings in otherwise highly successful foreign industries in order to the points on which they excel and on which we might try to emulate them.",
+    "options": {
+      "A": "accidentally ... exaggerate",
+      "B": "purposely ... emphasize",
+      "C": "occasionally ... counterbalance",
+      "D": "intentionally ... confuse",
+      "E": "cleverly ... compound"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 269,
+    "test": 20,
+    "section": 1,
+    "question_number": 3,
+    "question": "Crosby\u2019s colleagues have never learned, at least not in time to avoid embarrassing themselves, that her occasional air of befuddlement a display of her formidable intelligence.",
+    "options": {
+      "A": "genuine ... dominates",
+      "B": "alert ... contradicts",
+      "C": "acute ... precludes",
+      "D": "bogus ... presages",
+      "E": "painstaking ... succeeds"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 270,
+    "test": 20,
+    "section": 1,
+    "question_number": 4,
+    "question": "To ensure the development and exploitation of a new technology, there must be a constant of several nevertheless distinct activities.",
+    "options": {
+      "A": "interplay",
+      "B": "implementation",
+      "C": "comprehending",
+      "D": "improvement",
+      "E": "exploration 77"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 271,
+    "test": 20,
+    "section": 1,
+    "question_number": 5,
+    "question": "Some customs travel well; often, however, behavior that is considered the epitome of at home is perceived as impossibly rude or, at the least, harmlessly bizarre abroad.",
+    "options": {
+      "A": "novelty",
+      "B": "eccentricity",
+      "C": "urbanity",
+      "D": "coarseness",
+      "E": "tolerance"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 272,
+    "test": 20,
+    "section": 1,
+    "question_number": 6,
+    "question": "The of the early Greek philosophers\u2019 attempts to explain the operations of the cosmos led certain later thinkers to inquire into the of human reason.",
+    "options": {
+      "A": "difficulty ... origin",
+      "B": "meaning ... supremacy",
+      "C": "complexity... reality",
+      "D": "equivocations ... subtlety",
+      "E": "failures ... efficacy"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 273,
+    "test": 20,
+    "section": 1,
+    "question_number": 7,
+    "question": "Ever prey to vagrant impulses that impelled him to his talents on a host of unworthy projects, his very nonetheless enhanced his reputation, for the sheer energy of his extravagance dazzled observers.",
+    "options": {
+      "A": "undermine ... enthusiasm",
+      "B": "isolate ... selectiveness",
+      "C": "display ... affability",
+      "D": "squander ... dissipation",
+      "E": "implicate ... genius BBDAC ED 78 20-2"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 274,
+    "test": 20,
+    "section": 2,
+    "question_number": 1,
+    "question": "Given the existence of so many factions in the field, it was unrealistic of Anna Freud to expect any of opinion.",
+    "options": {
+      "A": "freedom",
+      "B": "reassessment",
+      "C": "uniformity",
+      "D": "expression",
+      "E": "formation"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 275,
+    "test": 20,
+    "section": 2,
+    "question_number": 2,
+    "question": "Although specific concerns may determine the intent of a research project, its results are often",
+    "options": {
+      "A": "unanticipated",
+      "B": "beneficial",
+      "C": "expensive",
+      "D": "spectacular",
+      "E": "specialized"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 276,
+    "test": 20,
+    "section": 2,
+    "question_number": 3,
+    "question": "To list Reilly\u2019s achievements in a fragmentary way is , for it distracts our attention from the themes of her work.",
+    "options": {
+      "A": "unproductive ... disparate",
+      "B": "misleading ... integrating",
+      "C": "pragmatic ... comprehensive",
+      "D": "logical ... important",
+      "E": "inevitable ... unsettling"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 277,
+    "test": 20,
+    "section": 2,
+    "question_number": 4,
+    "question": "People frequently denigrate books about recent catastrophes as morally attempts to profit, from misfortune, but in my view our desire for such books, together with the venerable tradition to which they belong, them.",
+    "options": {
+      "A": "inopportune ...encourages",
+      "B": "fortuitous ... fosters",
+      "C": "treacherous ... safeguards",
+      "D": "despicable ... legitimizes",
+      "E": "corrupt ... generates 719"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 278,
+    "test": 20,
+    "section": 2,
+    "question_number": 5,
+    "question": "That many of the important laws of science were discovered during experiments designed to other phenomena suggests that experimental results are the of inevitable natural forces rather than of planning.",
+    "options": {
+      "A": "analyze ... foundations",
+      "B": "disprove ... predecessors",
+      "C": "alter ... adjuncts",
+      "D": "illuminate ... consequence",
+      "E": "verify ... essence"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 279,
+    "test": 20,
+    "section": 2,
+    "question_number": 6,
+    "question": "Although in eighteenth-century England an active cultural life accompanied the beginnings of middleclass consumerism, the of literacy was with the rise of such consumerism in the different areas of the country.",
+    "options": {
+      "A": "repudiation ... reconciled",
+      "B": "renewal ... inconsistent",
+      "C": "promotion ... combined",
+      "D": "spread ... compatible",
+      "E": "degree ... uncorrelated"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 280,
+    "test": 20,
+    "section": 2,
+    "question_number": 7,
+    "question": "The trainees were given copies of a finished manual to see whether they could themselves begin to the inflexible, though tacit, rules for composing more of such instructional materials.",
+    "options": {
+      "A": "design",
+      "B": "revise",
+      "C": "disrupt",
+      "D": "standardize",
+      "E": "derive CABDD EE 80 21-1"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 281,
+    "test": 21,
+    "section": 1,
+    "question_number": 1,
+    "question": "Many artists believe that successful imitation, far from being symptomatic of a lack of , is the first step in learning to be creative.",
+    "options": {
+      "A": "elegance",
+      "B": "resolution",
+      "C": "goodness",
+      "D": "originality",
+      "E": "sympathy"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 282,
+    "test": 21,
+    "section": 1,
+    "question_number": 2,
+    "question": "As serious as she is about the bullfight, she does not allow respect to her sense of whimsy when painting it.",
+    "options": {
+      "A": "inspire",
+      "B": "provoke",
+      "C": "suppress",
+      "D": "attack",
+      "E": "satisfy"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 283,
+    "test": 21,
+    "section": 1,
+    "question_number": 3,
+    "question": "No one is about Stephens; he inspires either uncritical adulation or profound in those who work for him.",
+    "options": {
+      "A": "neutral ... antipathy",
+      "B": "infuriated ... aversion",
+      "C": "worried ... anxiety",
+      "D": "enthusiastic ... veneration",
+      "E": "apprehensive ... consternation"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 284,
+    "test": 21,
+    "section": 1,
+    "question_number": 4,
+    "question": "Before about 1960, virtually all accounts of evolution assumed most adaptation to be a product of selection at the level of population; recent studies of evolution, however, have foundno _ this view of selection.",
+    "options": {
+      "A": "departures from ... controversial",
+      "B": "basis for ... pervasive",
+      "C": "bias toward ... unchallenged",
+      "D": "precursors of ... innovative",
+      "E": "criticisms of ... renowned 81"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 285,
+    "test": 21,
+    "section": 1,
+    "question_number": 5,
+    "question": "The new biological psychiatry does not deny the contributing role of psychological factors in mental illnesses, but posits that these factors may act as a catalyst on existing physiological conditions and such illnesses.",
+    "options": {
+      "A": "disguise",
+      "B": "impede",
+      "C": "constrain",
+      "D": "precipitate",
+      "E": "consummate"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 286,
+    "test": 21,
+    "section": 1,
+    "question_number": 6,
+    "question": "During periods of social and cultural stability, many art academies are so firmly controlled by that all real creative work must be done by the",
+    "options": {
+      "A": "dogmatists ... disenfranchised",
+      "B": "managers ... reactionaries",
+      "C": "reformers ... dissatisfied",
+      "D": "imposters ... academicians",
+      "E": "specialists ... elite"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 287,
+    "test": 21,
+    "section": 1,
+    "question_number": 7,
+    "question": "The First World War began in a context of jargon and verbal delicacy and continued in a cloud of as as language and literature, skillfully used, could make it.",
+    "options": {
+      "A": "circumlocution ... literal",
+      "B": "clich\u00e9 ... lucid",
+      "C": "euphemism ... impenetrable",
+      "D": "particularity ... deliberate",
+      "E": "subjectivity ... enthralling DCABD AC 82 21-2"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 288,
+    "test": 21,
+    "section": 2,
+    "question_number": 1,
+    "question": "Because no comprehensive exist regarding personal reading practices, we do not know, for example, the greatest number of books read in an individual lifetime.",
+    "options": {
+      "A": "records",
+      "B": "instincts",
+      "C": "remedies",
+      "D": "proposals",
+      "E": "commercials"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 289,
+    "test": 21,
+    "section": 2,
+    "question_number": 2,
+    "question": "In our corporation there is a between male and female because 73 percent of the men and 34 percent of the women polled believe that our company provides equal compensation to men and women.",
+    "options": {
+      "A": "contrast ... stereotypes",
+      "B": "difference ... perceptions",
+      "C": "variation ... salaries",
+      "D": "resemblance ... employees",
+      "E": "similarity ... aspirations"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 290,
+    "test": 21,
+    "section": 2,
+    "question_number": 3,
+    "question": "The wonder of De Quincey is that although opium dominated his life, it never him; indeed, he turned its use to when he published the story of its influence in the London Magazine.",
+    "options": {
+      "A": "overcame ... altruism",
+      "B": "intimidated ... triumph",
+      "C": "distressed ... pleasure",
+      "D": "conquered ... gain",
+      "E": "released ... necessity"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 291,
+    "test": 21,
+    "section": 2,
+    "question_number": 4,
+    "question": "The reduction of noise has been in terms of its sources, but the alternative of canceling noise out by adding sound with the opposite wave pattern may be more useful in practice.",
+    "options": {
+      "A": "justified ... diffusing",
+      "B": "accomplished ... tracking",
+      "C": "conceived ... concealing",
+      "D": "explained ... isolating",
+      "E": "approached ... eliminating 83"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 292,
+    "test": 21,
+    "section": 2,
+    "question_number": 5,
+    "question": "While Parker is very outspoken on issues she cares about, she is not ; she concedes the of opposing arguments when they expose weaknesses inherent in her own.",
+    "options": {
+      "A": "fickle ... validity",
+      "B": "arrogant ... restraint",
+      "C": "fanatical ... strength",
+      "D": "congenial ... incompatibility",
+      "E": "unyielding ... speciousness"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 293,
+    "test": 21,
+    "section": 2,
+    "question_number": 6,
+    "question": "Hampshire\u2019s assertions, far from showing that we can reveal the issue to be even more than we had thought.",
+    "options": {
+      "A": "adapt ... pressing",
+      "B": "dismiss ... relevant",
+      "C": "rediscover ... unconventional",
+      "D": "admire ... elusive",
+      "E": "appreciate ... interesting"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 294,
+    "test": 21,
+    "section": 2,
+    "question_number": 7,
+    "question": "the ancient puzzles about objectivity, Usually the first to spot data that were inconsistent with other findings, in this particular experiment she let anumber of __ results slip by.",
+    "options": {
+      "A": "inaccurate",
+      "B": "verifiable",
+      "C": "redundant",
+      "D": "salient",
+      "E": "anomalous ABDEC BE 84 22-1"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 295,
+    "test": 22,
+    "section": 1,
+    "question_number": 1,
+    "question": "There is perhaps some truth in that waggish old definition of a scholar\u2014a siren that calls attention to a fog without doing anything to it.",
+    "options": {
+      "A": "describe",
+      "B": "cause",
+      "C": "analyze",
+      "D": "dispel",
+      "E": "thicken"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 296,
+    "test": 22,
+    "section": 1,
+    "question_number": 2,
+    "question": "Cryogenic energy storage has the advantage of being suitable in any , regardless of geography or geology, factors that may both underground gas storage and pumped hydroelectric storage.",
+    "options": {
+      "A": "location ... limit",
+      "B": "climate ... deter",
+      "C": "site ... forebode",
+      "D": "proportion ... typify",
+      "E": "surface ... hamper"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 297,
+    "test": 22,
+    "section": 1,
+    "question_number": 3,
+    "question": "The newborn human infant is not a passive figure, nor an active one, but what might be called an actively one, eagerly attentive as it is to sights and sounds.",
+    "options": {
+      "A": "adaptive",
+      "B": "selective",
+      "C": "inquisitive",
+      "D": "receptive",
+      "E": "intuitive"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 298,
+    "test": 22,
+    "section": 1,
+    "question_number": 4,
+    "question": "Opponents of the expansion of the market economy, although in , continued to constitute political force throughout the century.",
+    "options": {
+      "A": "error ... an inconsequential",
+      "B": "retreat ... a powerful",
+      "C": "disarray ... a disciplined",
+      "D": "jeopardy ... an ineffective",
+      "E": "command ... a viable 85"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 299,
+    "test": 22,
+    "section": 1,
+    "question_number": 5,
+    "question": "Nature\u2019s energy efficiency often __ human technology: despite the intensity of the light fireflies produce, the amount of heat is negligible; only recently have humans developed chemical light- producing systems whose efficiency __ the firefly\u2019s system.",
+    "options": {
+      "A": "engenders manipulates",
+      "B": "reflects simulates",
+      "C": "outstrips rivals",
+      "D": "inhibits matches",
+      "E": "determines reproduces"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 300,
+    "test": 22,
+    "section": 1,
+    "question_number": 6,
+    "question": "Scholars\u2019 sense of the uniqueness of the central concept of \u201cthe state\u201d at the time when political science became an academic field quite naturally led to striving for a correspondingly mode of study.",
+    "options": {
+      "A": "thorough",
+      "B": "distinctive",
+      "C": "dependable",
+      "D": "scientific",
+      "E": "dynamic"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 301,
+    "test": 22,
+    "section": 1,
+    "question_number": 7,
+    "question": "Just as astrology was for centuries faith, countering the strength of established churches, so today believing in astrology is an act of the professional sciences.",
+    "options": {
+      "A": "an individual ... rebellion by",
+      "B": "an accepted ... antagonism toward",
+      "C": "an underground ... defiance against",
+      "D": "a heretical ... support for",
+      "E": "an unknown ... concern about DADBC BC 86 22-2"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 302,
+    "test": 22,
+    "section": 2,
+    "question_number": 1,
+    "question": "Despite the fact that the two council members belonged to different political parties, they the issue of how to finance the town debt.",
+    "options": {
+      "A": "complicated",
+      "B": "avoided",
+      "C": "attested to",
+      "D": "reported on",
+      "E": "agreed on"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 303,
+    "test": 22,
+    "section": 2,
+    "question_number": 2,
+    "question": "The breathing spell provided by the arms shipments should give all the combatants a chance to reevaluate their positions.",
+    "options": {
+      "A": "plethora of",
+      "B": "moratorium on",
+      "C": "reciprocation of",
+      "D": "concentration on",
+      "E": "development of"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 304,
+    "test": 22,
+    "section": 2,
+    "question_number": 3,
+    "question": "The notion that cultural and biological influences determine cross-cultural diversity is discredited by the fact that, in countless aspects of human existence, it is cultural programming that overwhelmingly accounts for cross-population variance.",
+    "options": {
+      "A": "jointly",
+      "B": "completely",
+      "C": "directly",
+      "D": "equally",
+      "E": "eventually"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 305,
+    "test": 22,
+    "section": 2,
+    "question_number": 4,
+    "question": "Because medieval women\u2019s public participation in spiritual life was not welcomed by the male establishment, a compensating religious writings, inoffensive to the members of the establishment because of its , became important for many women.",
+    "options": {
+      "A": "involvement with ... privacy",
+      "B": "attention to ... popularity",
+      "C": "familiarity with ... scarcity",
+      "D": "dissatisfaction with ... profundity",
+      "E": "resistance to ... domesticity 87"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 306,
+    "test": 22,
+    "section": 2,
+    "question_number": 5,
+    "question": "This final essay, its prevailing kindliness by occasional flashes of savage irony, bespeaks the character of the author.",
+    "options": {
+      "A": "illuminated ... imperturbable",
+      "B": "marred ... dichotomous",
+      "C": "untainted ... vindictive",
+      "D": "exemplified ... chivalrous",
+      "E": "diluted ... ruthless"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 307,
+    "test": 22,
+    "section": 2,
+    "question_number": 6,
+    "question": "Although his attempts to appear psychotic were so as to be almost , there is evidence that Ezra Pound was able to avoid standing trial for treason merely by faking symptoms of mental illness.",
+    "options": {
+      "A": "spontaneous ... amusing",
+      "B": "contrived ... believable",
+      "C": "clumsy ... ludicrous",
+      "D": "stylized ... distressing",
+      "E": "sporadic ... premeditated"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 308,
+    "test": 22,
+    "section": 2,
+    "question_number": 7,
+    "question": "The questions that consistently structure the study of history must be distinguished from merely questions, which have their day and then pass into oblivion.",
+    "options": {
+      "A": "recurrent ... practical",
+      "B": "instinctive ... factual",
+      "C": "ingrained ... discriminating",
+      "D": "philosophical ... random",
+      "E": "perennial ... ephemeral EBDAB CE 88 23-1"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 309,
+    "test": 23,
+    "section": 1,
+    "question_number": 1,
+    "question": "The natural balance between prey and predator has been increasingly , most frequently by human intervention.",
+    "options": {
+      "A": "celebrated",
+      "B": "predicted",
+      "C": "observed",
+      "D": "disturbed",
+      "E": "questioned"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 310,
+    "test": 23,
+    "section": 1,
+    "question_number": 2,
+    "question": "There is some the fact that the author of a book as sensitive and informed as Indian Artisans did not develop her interest in Native American art until adulthood, for she grew up ina region rich in American Indian culture.",
+    "options": {
+      "A": "irony in",
+      "B": "satisfaction in",
+      "C": "doubt about",
+      "D": "concern about",
+      "E": "presumptuousness in"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 311,
+    "test": 23,
+    "section": 1,
+    "question_number": 3,
+    "question": "Ecology, like economics, concerns itself with the movement of valuable through a complex network of producers and consumers.",
+    "options": {
+      "A": "commodities",
+      "B": "dividends",
+      "C": "communications",
+      "D": "nutrients",
+      "E": "artifacts"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 312,
+    "test": 23,
+    "section": 1,
+    "question_number": 4,
+    "question": "Observable as a tendency of our culture is a of psychoanalysis: we no longer feel that it can solve our emotional problems.",
+    "options": {
+      "A": "divergence ... certainty about",
+      "B": "confrontation ... enigmas in",
+      "C": "withdrawal ... belief in",
+      "D": "defense ... weaknesses in",
+      "E": "failure ... rigor in 89"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 313,
+    "test": 23,
+    "section": 1,
+    "question_number": 5,
+    "question": "The struggle of the generations is one of the obvious constants of human affairs; therefore, it may be presumptuous to suggest that the rivalry between young and old in Western society during the current decade is critical.",
+    "options": {
+      "A": "perennially",
+      "B": "disturbingly",
+      "C": "uniquely",
+      "D": "archetypally",
+      "E": "captiously"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 314,
+    "test": 23,
+    "section": 1,
+    "question_number": 6,
+    "question": "Rhetoric often seems to over reason in a heated debate, with both sides in hyperbole.",
+    "options": {
+      "A": "cloud ... subsiding",
+      "B": "prevail ... yielding",
+      "C": "triumph ... engaging",
+      "D": "reverberate ... clamoring",
+      "E": "trample ... tangling"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 315,
+    "test": 23,
+    "section": 1,
+    "question_number": 7,
+    "question": "Melodramas, which presented stark oppositions between innocence and criminality, virtue and corruption, good and evil, were popular precisely because they offered the audience a world of .",
+    "options": {
+      "A": "bereft ... theatricality",
+      "B": "composed ... adversity",
+      "C": "full ... circumstantiality",
+      "D": "deprived ... polarity",
+      "E": "devoid ... neutrality DAACC CE 90 23-2"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 316,
+    "test": 23,
+    "section": 2,
+    "question_number": 1,
+    "question": "In the current research program, new varieties of apple trees are evaluated under different agricultural for tree size, bloom density, fruit size, to various soils, and resistance to pests and disease.",
+    "options": {
+      "A": "circumstances ... proximity",
+      "B": "regulations ... conformity",
+      "C": "conditions ... adaptability",
+      "D": "auspices ... susceptibility",
+      "E": "configurations ... propensity"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 317,
+    "test": 23,
+    "section": 2,
+    "question_number": 2,
+    "question": "At first, I found her gravity rather intimidating; but, as I saw more of her, I found that was very near the surface.",
+    "options": {
+      "A": "seriousness",
+      "B": "confidence",
+      "C": "laughter",
+      "D": "poise",
+      "E": "determination"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 318,
+    "test": 23,
+    "section": 2,
+    "question_number": 3,
+    "question": "Even though in today\u2019s Soviet Union the the Muslim clergy have been accorded power and privileges, the Muslim laity and the rank-and-file clergy still have little to practice their religion.",
+    "options": {
+      "A": "practitioners among ... opportunity",
+      "B": "dissidents within ... obligation",
+      "C": "adversaries of ... inclination",
+      "D": "leaders of ... latitude",
+      "E": "traditionalists among ... incentive"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 319,
+    "test": 23,
+    "section": 2,
+    "question_number": 4,
+    "question": "The proponents of recombinant DNA research have decided to federal regulation of their work; they hope that by making this compromise they can forestall proposed state and local controls that might be even stiffer.",
+    "options": {
+      "A": "protest",
+      "B": "institute",
+      "C": "deny",
+      "D": "encourage",
+      "E": "disregard 91"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 320,
+    "test": 23,
+    "section": 2,
+    "question_number": 5,
+    "question": "It is to the novelist\u2019s credit that all of presented realistically, without any or playful supernatural tricks.",
+    "options": {
+      "A": "elucidation",
+      "B": "discrimination",
+      "C": "artlessness",
+      "D": "authenticity",
+      "E": "whimsy"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 321,
+    "test": 23,
+    "section": 2,
+    "question_number": 6,
+    "question": "Our new tools of systems analysis, powerful though they may be, lead to theories, especially, and predictably, in economics and political science, where productive approaches have long been highly",
+    "options": {
+      "A": "pragmatic ... speculative",
+      "B": "inelegant ... efficacious",
+      "C": "explanatory ... intuitional",
+      "D": "wrongheaded ... convergent",
+      "E": "simplistic ... elusive"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 322,
+    "test": 23,
+    "section": 2,
+    "question_number": 7,
+    "question": "Nineteenth-century scholars, by examining earlier geometric Greek art, found that classical Greek art was not a magical or a brilliant blending Egyptian and Assyrian art, but was independently evolved by Greeks in Greece.",
+    "options": {
+      "A": "stratagem ... appropriation",
+      "B": "exemplar ... synthesis",
+      "C": "conversion ... annexation",
+      "D": "paradigm ... construct",
+      "E": "apparition ... amalgam CCDDE EE 92 24-1"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 323,
+    "test": 24,
+    "section": 1,
+    "question_number": 1,
+    "question": "Clearly refuting sceptics, researchers have not only that gravitational radiation exists but that it also does exactly what theory it should do.",
+    "options": {
+      "A": "doubted ... warranted",
+      "B": "estimated ... accepted",
+      "C": "demonstrated ... predicted",
+      "D": "assumed ... deduced",
+      "E": "supposed ... asserted"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 324,
+    "test": 24,
+    "section": 1,
+    "question_number": 2,
+    "question": "Sponsors of the bill were because there was no opposition to it within the legislature until after the measure had been signed into law.",
+    "options": {
+      "A": "unreliable",
+      "B": "well-intentioned",
+      "C": "persistent",
+      "D": "relieved",
+      "E": "detained"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 325,
+    "test": 24,
+    "section": 1,
+    "question_number": 3,
+    "question": "The paradoxical aspect of the myths about Demeter, when we consider the predominant image of her as a tranquil and serene goddess, is her search for her daughter.",
+    "options": {
+      "A": "extended",
+      "B": "agitated",
+      "C": "comprehensive",
+      "D": "motiveless",
+      "E": "heartless"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 326,
+    "test": 24,
+    "section": 1,
+    "question_number": 4,
+    "question": "Yellow fever, the disease that killed 4,000 Philadelphians in 1793, and so Memphis, Tennessee, that the city lost its charter, has reappeared after nearly two decades in in the Western Hemisphere.",
+    "options": {
+      "A": "terrorized ... contention",
+      "B": "ravaged ... secret",
+      "C": "disabled ... quarantine",
+      "D": "corrupted ... quiescence",
+      "E": "decimated ... abeyance 93"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 327,
+    "test": 24,
+    "section": 1,
+    "question_number": 5,
+    "question": "Although , almost self-effacing in his private life, he displays in his plays and essays a strong publicity and controversy.",
+    "options": {
+      "A": "conventional ... interest in",
+      "B": "monotonous ... reliance on",
+      "C": "shy ... aversion toward",
+      "D": "retiring ... penchant for",
+      "E": "evasive ... impatience with"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 328,
+    "test": 24,
+    "section": 1,
+    "question_number": 6,
+    "question": "Comparatively few rock musicians are willing to laugh at themselves, although a hint of can boost sales of video clips very nicely.",
+    "options": {
+      "A": "self-deprecation",
+      "B": "congeniality",
+      "C": "cynicism",
+      "D": "embarrassment",
+      "E": "self-doubt"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 329,
+    "test": 24,
+    "section": 1,
+    "question_number": 7,
+    "question": "Parts of seventeenth-century Chinese pleasure gardens were not necessarily intended to look ; they were designed expressly to evoke the melancholy resulting from a sense of the of natural beauty and human glory.",
+    "options": {
+      "A": "beautiful ... immutability",
+      "B": "cheerful ... transitoriness",
+      "C": "colorful ... abstractness",
+      "D": "luxuriant ... simplicity",
+      "E": "conventional ... wildness CDBED AB 94 24-2"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 330,
+    "test": 24,
+    "section": 2,
+    "question_number": 1,
+    "question": "Since it is now to build the complex central processing unit of a computer on a single silicon chip using photolithography and chemical etching, it seems plausible that other miniature structures might be fabricated in ways.",
+    "options": {
+      "A": "unprecedented ... undiscovered",
+      "B": "difficult ... related",
+      "C": "permitted ... unique",
+      "D": "mandatory ... congruent",
+      "E": "routine ... similar"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 331,
+    "test": 24,
+    "section": 2,
+    "question_number": 2,
+    "question": "Given the evidence of Egyptian and Babylonian later Greek civilization, it would be incorrect to view the work of Greek scientists as an entirely independent creation.",
+    "options": {
+      "A": "disdain for",
+      "B": "imitation of",
+      "C": "ambivalence about",
+      "D": "deference to",
+      "E": "influence on"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 332,
+    "test": 24,
+    "section": 2,
+    "question_number": 3,
+    "question": "Laws do not ensure social order since laws can always be , which makes them unless the authorities have the will and the power to detect and punish wrongdoing.",
+    "options": {
+      "A": "contested ... provisional",
+      "B": "circumvented ... antiquated",
+      "C": "repealed ... vulnerable",
+      "D": "violated ... ineffective",
+      "E": "modified ... unstable"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 333,
+    "test": 24,
+    "section": 2,
+    "question_number": 4,
+    "question": "Since she believed him to be both candid and trustworthy, she refused to consider the possibility that his statement had been",
+    "options": {
+      "A": "irrelevant",
+      "B": "facetious",
+      "C": "mistaken",
+      "D": "critical",
+      "E": "insincere 95"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 334,
+    "test": 24,
+    "section": 2,
+    "question_number": 5,
+    "question": "Ironically, the party leaders encountered no greater their efforts to build a progressive party than the of the progressives already elected to the legislature.",
+    "options": {
+      "A": "support for ... advocacy",
+      "B": "threat to ... promise",
+      "C": "benefit from ... success",
+      "D": "obstacle to ... resistance",
+      "E": "praise for ... reputation"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 335,
+    "test": 24,
+    "section": 2,
+    "question_number": 6,
+    "question": "It is strange how words shape our thoughts and trap us at the bottom of deeply of thinking, their imprisoning sides carved out by the of past usage.",
+    "options": {
+      "A": "cleaved ... eruptions",
+      "B": "rooted ... flood",
+      "C": "incised ... river",
+      "D": "ridged ... ocean",
+      "E": "notched ... mountains"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 336,
+    "test": 24,
+    "section": 2,
+    "question_number": 7,
+    "question": "canyons That his intransigence in making decisions no open disagreement from any quarter was well known; thus, clever subordinates learned the art of their opinions in casual remarks.",
+    "options": {
+      "A": "elicited ... quashing",
+      "B": "engendered ... recasting",
+      "C": "brooked ... intimating",
+      "D": "embodied ... instigating",
+      "E": "forbore ... emending EEDED CC 96 25-1"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 337,
+    "test": 25,
+    "section": 1,
+    "question_number": 1,
+    "question": "Hydrogen is the element of the universe in that it provides the building blocks from which the other elements are produced.",
+    "options": {
+      "A": "steadiest",
+      "B": "expendable",
+      "C": "lightest",
+      "D": "final",
+      "E": "fundamental"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 338,
+    "test": 25,
+    "section": 1,
+    "question_number": 2,
+    "question": "Few of us take the pains to study our cherished convictions; indeed, we almost have a natural doing so.",
+    "options": {
+      "A": "aptitude for",
+      "B": "repugnance to",
+      "C": "interest in",
+      "D": "ignorance of",
+      "E": "reaction after"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 339,
+    "test": 25,
+    "section": 1,
+    "question_number": 3,
+    "question": "It is his dubious distinction to have proved what nobody would think of denying, that Romero at the age of sixty-four writes with all the characteristics of",
+    "options": {
+      "A": "maturity",
+      "B": "fiction",
+      "C": "inventiveness",
+      "D": "art",
+      "E": "brilliance"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 340,
+    "test": 25,
+    "section": 1,
+    "question_number": 4,
+    "question": "The primary criterion for a school is its recent performance: critics are to extend credit for earlier victories.",
+    "options": {
+      "A": "evaluating ... prone",
+      "B": "investigating ... hesitant",
+      "C": "judging ... reluctant",
+      "D": "improving ... eager",
+      "E": "administering ... persuaded 97"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 341,
+    "test": 25,
+    "section": 1,
+    "question_number": 5,
+    "question": "Number theory is rich in problems of an especially state but difficult to solve.",
+    "options": {
+      "A": "cryptic ... deceptively",
+      "B": "spurious ... equally",
+      "C": "abstruse ... ostensibly",
+      "D": "elegant ... rarely",
+      "E": "vexing ... notoriously"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 342,
+    "test": 25,
+    "section": 1,
+    "question_number": 6,
+    "question": "In failing to see that the justice\u2019s pronouncement merely actually establishing a precedent, the novice law clerk judgment.",
+    "options": {
+      "A": "synthesized ... limited",
+      "B": "overturned ... misunderstood",
+      "C": "endorsed ... nullified",
+      "D": "qualified ... overemphasized",
+      "E": "recapitulated ... defined"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 343,
+    "test": 25,
+    "section": 1,
+    "question_number": 7,
+    "question": "sort: they are tantalizingly simple to previous decisions rather than the scope of the justice\u2019s When theories formerly considered to be in their scientific objectivity are found instead to reflect a consistent observational and evaluative bias, then the presumed neutrality of science gives way to the recognition that categories of knowledge are human",
+    "options": {
+      "A": "disinterested ... constructions",
+      "B": "callous ... errors",
+      "C": "verifiable ... prejudices",
+      "D": "convincing ... imperatives",
+      "E": "unassailable ... fantasies EBACE DA 98 25-2"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 344,
+    "test": 25,
+    "section": 2,
+    "question_number": 1,
+    "question": "Although the minuet appeared simple, its steps had to be studied very carefully before they could be gracefully in public.",
+    "options": {
+      "A": "progressive ... revealed",
+      "B": "intricate ... executed",
+      "C": "rudimentary ... allowed",
+      "D": "minute ... discussed",
+      "E": "entertaining ... stylized"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 345,
+    "test": 25,
+    "section": 2,
+    "question_number": 2,
+    "question": "The results of the experiments performed by Elizabeth Hazen and Rachel Brown were not only because these results challenged old assumptions but also because they called the methodology into question.",
+    "options": {
+      "A": "provocative ... prevailing",
+      "B": "predictable ... contemporary",
+      "C": "inconclusive ... traditional",
+      "D": "intriguing ... projected",
+      "E": "specious ... original"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 346,
+    "test": 25,
+    "section": 2,
+    "question_number": 3,
+    "question": "Despite the of many of their colleagues, some scholars have begun to emphasize \u201cpop culture\u201d as a key for the myths, hopes, and fears of contemporary society.",
+    "options": {
+      "A": "antipathy ... entangling",
+      "B": "discernment ... evaluating",
+      "C": "pedantry ... reinstating",
+      "D": "skepticism ... deciphering",
+      "E": "enthusiasm ... symbolizing"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 347,
+    "test": 25,
+    "section": 2,
+    "question_number": 4,
+    "question": "In the seventeenth century, direct flouting of a generally accepted system of values was regarded as , even as a sign of madness.",
+    "options": {
+      "A": "adventurous",
+      "B": "frivolous",
+      "C": "willful",
+      "D": "impermissible",
+      "E": "irrational 99"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 348,
+    "test": 25,
+    "section": 2,
+    "question_number": 5,
+    "question": "Queen Elizabeth I has quite correctly been called a of the arts, because many young artists received her patronage.",
+    "options": {
+      "A": "connoisseur",
+      "B": "critic",
+      "C": "friend",
+      "D": "scourge",
+      "E": "judge"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 349,
+    "test": 25,
+    "section": 2,
+    "question_number": 6,
+    "question": "Because outlaws were denied under medieval law, anyone could raise a hand against them with legal",
+    "options": {
+      "A": "propriety ... authority",
+      "B": "protection ... impunity",
+      "C": "collusion ... consent",
+      "D": "rights ... collaboration",
+      "E": "provisions ... validity"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 350,
+    "test": 25,
+    "section": 2,
+    "question_number": 7,
+    "question": "Rather than enhancing a country\u2019s security, the successful development of nuclear weapons could serve at first to increase that country\u2019s",
+    "options": {
+      "A": "boldness",
+      "B": "influence",
+      "C": "responsibility",
+      "D": "moderation",
+      "E": "vulnerability BADEC BE 100 26-1"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 351,
+    "test": 26,
+    "section": 1,
+    "question_number": 1,
+    "question": "The Chinese, who began systematic astronomical and weather observations shortly after the ancient Egyptians, were assiduous record-keepers, and because of this, can claim humanity\u2019s longest continuous of natural events.",
+    "options": {
+      "A": "defiance",
+      "B": "documentation",
+      "C": "maintenance",
+      "D": "theory",
+      "E": "domination"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 352,
+    "test": 26,
+    "section": 1,
+    "question_number": 2,
+    "question": "Because many of the minerals found on the clean floor are still on land, where mining is relatively inexpensive, mining the ocean floor has yet to become a enterprise.",
+    "options": {
+      "A": "scarce ... common",
+      "B": "accessible ... marginal",
+      "C": "unidentified ... subsidized",
+      "D": "conserved ... public",
+      "E": "plentiful ... profitable"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 353,
+    "test": 26,
+    "section": 1,
+    "question_number": 3,
+    "question": "The valedictory address, as it has developed in American colleges and universities over the years, has become a very strict form, a literary that permits very little",
+    "options": {
+      "A": "text ... clarity",
+      "B": "work ... tradition",
+      "C": "genre ... deviation",
+      "D": "oration ... grandiloquence",
+      "E": "achievement ... rigidity"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 354,
+    "test": 26,
+    "section": 1,
+    "question_number": 4,
+    "question": "A human being is quite creature, for the gloss of rationality that covers his or her fears and is thin and often easily breached.",
+    "options": {
+      "A": "a logical ... problems",
+      "B": "a frail ... insecurity",
+      "C": "a valiant ... phobias",
+      "D": "an ambitious ... morality",
+      "E": "a ludicrous ... laughter 101"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 355,
+    "test": 26,
+    "section": 1,
+    "question_number": 5,
+    "question": "Although the passage of years has softened the initially hostile reaction to his poetry, even now only a few independent observers his works.",
+    "options": {
+      "A": "praise",
+      "B": "revile",
+      "C": "scrutinize",
+      "D": "criticize",
+      "E": "neglect"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 356,
+    "test": 26,
+    "section": 1,
+    "question_number": 6,
+    "question": "Unlike philosophers who constructed theoretically ideal states, she built a theory based on ; thus, although her constructs may have been inelegant, they were sound.",
+    "options": {
+      "A": "reality ... aesthetically",
+      "B": "intuition ... intellectually",
+      "C": "surmise ... scientifically",
+      "D": "experience ... empirically",
+      "E": "conjecture ... factually"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 357,
+    "test": 26,
+    "section": 1,
+    "question_number": 7,
+    "question": "Once a duckling has identified a parent, then instinctive bond becomes a powerful for additional learning since, by the parent, the duckling can acquire further information that is not genetically transmitted.",
+    "options": {
+      "A": "impulse ... surpassing",
+      "B": "referent ... recognizing",
+      "C": "force ... acknowledging",
+      "D": "inspiration ... emulating",
+      "E": "channel ... mimicking BECBA DE 102 26-2"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 358,
+    "test": 26,
+    "section": 2,
+    "question_number": 1,
+    "question": "Nearly two-thirds of the country\u2019s mushroom crop is produced by 160 growers in a single county, the greatest growers anywhere.",
+    "options": {
+      "A": "cause of",
+      "B": "agreement among",
+      "C": "indication of",
+      "D": "interaction between",
+      "E": "concentration of"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 359,
+    "test": 26,
+    "section": 2,
+    "question_number": 2,
+    "question": "The disjunction between educational objectives that stress independence and individuality and those that emphasize obedience to rules and cooperation with others reflects a that arises from the values on which these objectives are based.",
+    "options": {
+      "A": "conflict",
+      "B": "redundancy",
+      "C": "gain",
+      "D": "predictability",
+      "E": "wisdom"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 360,
+    "test": 26,
+    "section": 2,
+    "question_number": 3,
+    "question": "It is for a government to fail to do whatever it can to eliminate a totally disease.",
+    "options": {
+      "A": "folly ... innocuous",
+      "B": "irresponsible ... preventable",
+      "C": "crucial ... fatal",
+      "D": "instinctive ... devastating",
+      "E": "detrimental ... insignificant"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "id": 361,
+    "test": 26,
+    "section": 2,
+    "question_number": 4,
+    "question": "Dramatic literature often the history of a culture in that it takes as its subject matter the important events that have shaped and guided the culture.",
+    "options": {
+      "A": "confounds",
+      "B": "repudiates",
+      "C": "recapitulates",
+      "D": "anticipates",
+      "E": "polarizes 103"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 362,
+    "test": 26,
+    "section": 2,
+    "question_number": 5,
+    "question": "The legislators of 1563 realized the of trying to regulate the flow of labor without securing its reasonable remuneration, and so the second part of the statute dealt with establishing wages.",
+    "options": {
+      "A": "intricacy",
+      "B": "anxiety",
+      "C": "futility",
+      "D": "necessity",
+      "E": "decadence"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 363,
+    "test": 26,
+    "section": 2,
+    "question_number": 6,
+    "question": "Scientists who are on the cutting edge of research must often violate common sense and make seemingly assumptions because existing theories simply do not newly observed phenomena.",
+    "options": {
+      "A": "radical ... confirm",
+      "B": "vague ... incorporate",
+      "C": "absurd ... explain",
+      "D": "mistaken ... reveal",
+      "E": "inexact ... corroborate"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 364,
+    "test": 26,
+    "section": 2,
+    "question_number": 7,
+    "question": "The with which the French aristocracy greeted the middle-class Rousseau was all the more because he showed so little respect for them.",
+    "options": {
+      "A": "deference ... remarkable",
+      "B": "suspicion ... uncanny",
+      "C": "reserve ... unexpected",
+      "D": "anger ... ironic",
+      "E": "appreciation ... deserved EABCC CA 104 27-1"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 365,
+    "test": 27,
+    "section": 1,
+    "question_number": 1,
+    "question": "Agronomists are increasingly worried about \u201cdesertification,\u201d the phenomenon that is turning many of the world\u2019s fields and pastures into wastelands, unable to support the people living on them.",
+    "options": {
+      "A": "fertile ... barren",
+      "B": "productive ... blooming",
+      "C": "arid ... thriving",
+      "D": "poorest ... marginal",
+      "E": "largest ... saturated"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 366,
+    "test": 27,
+    "section": 1,
+    "question_number": 2,
+    "question": "Old beliefs die hard: even when jobs became the long-standing fear that unemployment could return at a moment\u2019s notice",
+    "options": {
+      "A": "vacant ... perished",
+      "B": "easier ... changed",
+      "C": "plentiful ... persisted",
+      "D": "protected ... subsided",
+      "E": "available ... receded"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 367,
+    "test": 27,
+    "section": 1,
+    "question_number": 3,
+    "question": "Intellectual and flight from boredom have caused him to rush pell-mell into situations that less spirits might hesitate to approach.",
+    "options": {
+      "A": "restlessness ... adventurous",
+      "B": "agitation ... passive",
+      "C": "resilience ... quiescent",
+      "D": "tranquility ... versatile",
+      "E": "curiosity ... lethargic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 368,
+    "test": 27,
+    "section": 1,
+    "question_number": 4,
+    "question": "Science advances in spiral in that each new conceptual scheme\u2014the phenomena explained by its predecessors and adds to those explanations.",
+    "options": {
+      "A": "a discontinuous ... decries",
+      "B": "a repetitive ... vitiates",
+      "C": "a widening ... embraces",
+      "D": "an anomalous ... captures",
+      "E": "an explosive ... questions 105"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 369,
+    "test": 27,
+    "section": 1,
+    "question_number": 5,
+    "question": "Politeness is not a attribute of human behavior, but rather a central virtue, one whose very existence is increasingly being by the faddish requirement to \u201cspeak one\u2019s mind.\u201d",
+    "options": {
+      "A": "superficial ... threatened",
+      "B": "pervasive ... undercut",
+      "C": "worthless ... forestalled",
+      "D": "precious ... repudiated",
+      "E": "trivial ... affected"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 370,
+    "test": 27,
+    "section": 1,
+    "question_number": 6,
+    "question": "The painting was larger than it appeared to be, for, hanging in a darkened recess of the chapel; it was by the perspective.",
+    "options": {
+      "A": "improved",
+      "B": "aggrandized",
+      "C": "embellished",
+      "D": "jeopardized",
+      "E": "diminished"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 371,
+    "test": 27,
+    "section": 1,
+    "question_number": 7,
+    "question": "Because folk art is neither completely rejected nor accepted as an art form by art historians, their final evaluations of it necessarily remain",
+    "options": {
+      "A": "arbitrary",
+      "B": "estimable",
+      "C": "orthodox",
+      "D": "unspoken",
+      "E": "equivocal ACACA EE 106 27-2"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 372,
+    "test": 27,
+    "section": 2,
+    "question_number": 1,
+    "question": "Because it is to all the business costs related to employee discontent, an accurate estimate of the magnitude of these costs is not easily calculated.",
+    "options": {
+      "A": "difficult ... measure",
+      "B": "impossible ... justify",
+      "C": "improper ... overlook",
+      "D": "useless ... discover",
+      "E": "necessary ... pinpoint"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 373,
+    "test": 27,
+    "section": 2,
+    "question_number": 2,
+    "question": "Consider the universal cannibalism of the sea, all of whose creatures one another.",
+    "options": {
+      "A": "hide from",
+      "B": "ferret out",
+      "C": "prey on",
+      "D": "glide among",
+      "E": "compete against"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 374,
+    "test": 27,
+    "section": 2,
+    "question_number": 3,
+    "question": "How could words, confined as they individually are to certain meanings specified in a dictionary, eventually come, when combined in groups, to create obscurity and actually to prevent thought from being ?",
+    "options": {
+      "A": "indefinite ... articulated",
+      "B": "conventional ... conceivable",
+      "C": "unlikely ... classified",
+      "D": "archaic ... expressed",
+      "E": "precise ... communicable"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 375,
+    "test": 27,
+    "section": 2,
+    "question_number": 4,
+    "question": "Even though they tended to be strangers, fifteenth-century Europeans did not automatically associate and danger.",
+    "options": {
+      "A": "trusting of ... diversity",
+      "B": "haughty with ... nonconformity",
+      "C": "interested in ... enmity",
+      "D": "antagonistic to ... rudeness",
+      "E": "hostile to ... foreignness 107"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 376,
+    "test": 27,
+    "section": 2,
+    "question_number": 5,
+    "question": "The modern age is a permissive one in which things can be said explicitly, but the old tradition of dies hard.",
+    "options": {
+      "A": "garrulousness",
+      "B": "exaggeration",
+      "C": "excoriation",
+      "D": "bombast",
+      "E": "euphemism"
+    },
+    "correct_answer": "E"
+  },
+  {
+    "id": 377,
+    "test": 27,
+    "section": 2,
+    "question_number": 6,
+    "question": "Although many findings of the Soviet and United States probes of Venus were complementary, the two sets of atmospheric results clearly could not be without a major change of data or",
+    "options": {
+      "A": "obtained ... experimentation",
+      "B": "completed ... position",
+      "C": "matched ... implementation",
+      "D": "reconciled ... interpretation",
+      "E": "produced ... falsification"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "id": 378,
+    "test": 27,
+    "section": 2,
+    "question_number": 7,
+    "question": "While it is assumed that the mechanization of work has a effect on the lives of workers, there is evidence available to suggest that, on the contrary, mechanization has served to some of the traditional roles of women.",
+    "options": {
+      "A": "salutary ... improve",
+      "B": "dramatic ... undermine",
+      "C": "benign ... revise",
+      "D": "debilitating ... weaken",
+      "E": "revolutionary ... reinforce ACEEE DE 108"
+    },
+    "correct_answer": "E"
+  }
+]
